@@ -1,0 +1,573 @@
+[
+  {
+    "pathId": 1000,
+    "script": "Unknown",
+    "assetName": "Boss Table",
+    "entries": [
+      {
+        "maxLevel": 0,
+        "weights": []
+      }
+    ]
+  },
+  {
+    "pathId": 1001,
+    "script": "Unknown",
+    "assetName": "Enemy Table",
+    "entries": [
+      {
+        "maxLevel": 0,
+        "weights": []
+      },
+      {
+        "maxLevel": 0,
+        "weights": []
+      },
+      {
+        "maxLevel": 0,
+        "weights": []
+      }
+    ]
+  },
+  {
+    "pathId": 1002,
+    "script": "Unknown",
+    "assetName": "Miniboss Table",
+    "entries": [
+      {
+        "maxLevel": 0,
+        "weights": []
+      }
+    ]
+  },
+  {
+    "pathId": 1136,
+    "script": "Unknown",
+    "assetName": "Loot Distribution",
+    "entries": [
+      {
+        "maxLevel": 8,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 95.0
+          },
+          {
+            "rarity": "D",
+            "weight": 5.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 17,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 90.0
+          },
+          {
+            "rarity": "D",
+            "weight": 7.0
+          },
+          {
+            "rarity": "C",
+            "weight": 3.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 19,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 85.0
+          },
+          {
+            "rarity": "D",
+            "weight": 12.0
+          },
+          {
+            "rarity": "C",
+            "weight": 3.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 26,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 80.0
+          },
+          {
+            "rarity": "D",
+            "weight": 15.0
+          },
+          {
+            "rarity": "C",
+            "weight": 5.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 31,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 75.0
+          },
+          {
+            "rarity": "D",
+            "weight": 20.0
+          },
+          {
+            "rarity": "C",
+            "weight": 5.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 35,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 65.0
+          },
+          {
+            "rarity": "D",
+            "weight": 25.0
+          },
+          {
+            "rarity": "C",
+            "weight": 10.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 41,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 60.0
+          },
+          {
+            "rarity": "D",
+            "weight": 30.0
+          },
+          {
+            "rarity": "C",
+            "weight": 10.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 52,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 55.0
+          },
+          {
+            "rarity": "D",
+            "weight": 30.0
+          },
+          {
+            "rarity": "C",
+            "weight": 10.0
+          },
+          {
+            "rarity": "B",
+            "weight": 5.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 55,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 40.0
+          },
+          {
+            "rarity": "D",
+            "weight": 40.0
+          },
+          {
+            "rarity": "C",
+            "weight": 15.0
+          },
+          {
+            "rarity": "B",
+            "weight": 5.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 59,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 20.0
+          },
+          {
+            "rarity": "D",
+            "weight": 50.0
+          },
+          {
+            "rarity": "C",
+            "weight": 25.0
+          },
+          {
+            "rarity": "B",
+            "weight": 5.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 65,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 10.0
+          },
+          {
+            "rarity": "D",
+            "weight": 55.0
+          },
+          {
+            "rarity": "C",
+            "weight": 25.0
+          },
+          {
+            "rarity": "B",
+            "weight": 10.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 74,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 10.0
+          },
+          {
+            "rarity": "D",
+            "weight": 45.0
+          },
+          {
+            "rarity": "C",
+            "weight": 35.0
+          },
+          {
+            "rarity": "B",
+            "weight": 10.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 80,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 10.0
+          },
+          {
+            "rarity": "D",
+            "weight": 35.0
+          },
+          {
+            "rarity": "C",
+            "weight": 45.0
+          },
+          {
+            "rarity": "B",
+            "weight": 10.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 83,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 10.0
+          },
+          {
+            "rarity": "D",
+            "weight": 30.0
+          },
+          {
+            "rarity": "C",
+            "weight": 45.0
+          },
+          {
+            "rarity": "B",
+            "weight": 15.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 87,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 10.0
+          },
+          {
+            "rarity": "D",
+            "weight": 25.0
+          },
+          {
+            "rarity": "C",
+            "weight": 50.0
+          },
+          {
+            "rarity": "B",
+            "weight": 15.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 97,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 10.0
+          },
+          {
+            "rarity": "D",
+            "weight": 20.0
+          },
+          {
+            "rarity": "C",
+            "weight": 50.0
+          },
+          {
+            "rarity": "B",
+            "weight": 15.0
+          },
+          {
+            "rarity": "A",
+            "weight": 5.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 103,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 10.0
+          },
+          {
+            "rarity": "D",
+            "weight": 15.0
+          },
+          {
+            "rarity": "C",
+            "weight": 50.0
+          },
+          {
+            "rarity": "B",
+            "weight": 20.0
+          },
+          {
+            "rarity": "A",
+            "weight": 5.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 112,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 10.0
+          },
+          {
+            "rarity": "D",
+            "weight": 10.0
+          },
+          {
+            "rarity": "C",
+            "weight": 40.0
+          },
+          {
+            "rarity": "B",
+            "weight": 25.0
+          },
+          {
+            "rarity": "A",
+            "weight": 15.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 120,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 10.0
+          },
+          {
+            "rarity": "D",
+            "weight": 10.0
+          },
+          {
+            "rarity": "C",
+            "weight": 20.0
+          },
+          {
+            "rarity": "B",
+            "weight": 34.0
+          },
+          {
+            "rarity": "A",
+            "weight": 20.0
+          },
+          {
+            "rarity": "S",
+            "weight": 5.0
+          },
+          {
+            "rarity": "Infinity",
+            "weight": 1.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 132,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 10.0
+          },
+          {
+            "rarity": "D",
+            "weight": 10.0
+          },
+          {
+            "rarity": "C",
+            "weight": 10.0
+          },
+          {
+            "rarity": "B",
+            "weight": 38.0
+          },
+          {
+            "rarity": "A",
+            "weight": 20.0
+          },
+          {
+            "rarity": "S",
+            "weight": 10.0
+          },
+          {
+            "rarity": "Infinity",
+            "weight": 2.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 141,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 10.0
+          },
+          {
+            "rarity": "D",
+            "weight": 10.0
+          },
+          {
+            "rarity": "C",
+            "weight": 10.0
+          },
+          {
+            "rarity": "B",
+            "weight": 20.0
+          },
+          {
+            "rarity": "A",
+            "weight": 27.0
+          },
+          {
+            "rarity": "S",
+            "weight": 20.0
+          },
+          {
+            "rarity": "Infinity",
+            "weight": 3.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 147,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 10.0
+          },
+          {
+            "rarity": "D",
+            "weight": 10.0
+          },
+          {
+            "rarity": "C",
+            "weight": 10.0
+          },
+          {
+            "rarity": "B",
+            "weight": 10.0
+          },
+          {
+            "rarity": "A",
+            "weight": 30.0
+          },
+          {
+            "rarity": "S",
+            "weight": 25.0
+          },
+          {
+            "rarity": "Infinity",
+            "weight": 5.0
+          }
+        ]
+      },
+      {
+        "maxLevel": 50000,
+        "weights": [
+          {
+            "rarity": "E",
+            "weight": 10.0
+          },
+          {
+            "rarity": "D",
+            "weight": 10.0
+          },
+          {
+            "rarity": "C",
+            "weight": 10.0
+          },
+          {
+            "rarity": "B",
+            "weight": 10.0
+          },
+          {
+            "rarity": "A",
+            "weight": 20.0
+          },
+          {
+            "rarity": "S",
+            "weight": 30.0
+          },
+          {
+            "rarity": "Infinity",
+            "weight": 10.0
+          }
+        ]
+      }
+    ]
+  }
+]

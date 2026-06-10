@@ -1,0 +1,166 @@
+lootName,description,rarity,unique,limited,limitCount,craftMaterial1,craftMaterial2,iconFile,statModifiersFormatted,pathId,script
+4D Sight,"-15° Aim Cone, -15% Fire Rate",E,0,1,2,,,icons/4d-sight.png,PrecisionFix:20.0,1116,Unknown
+Acorn,"-20% Projectile Size, +30% Money Obtained",E,0,0,1,,,icons/acorn.png,ProjScalePercent:-0.20000000298023224 | MoneyMultiplier:0.15000000596046448,1117,Unknown
+Aerodynamics,+65% Projectile Speed,A,0,1,3,,,icons/aerodynamics.png,ProjSpeedPercent:0.75 | DamagePercent:0.20000000298023224,1033,Unknown
+Air Resistance,"-25% Projectile Speed, +65% Projectile Size",B,0,0,1,,,icons/air-resistance.png,ProjSpeedPercent:-0.25 | ProjScalePercent:0.6499999761581421,1051,Unknown
+Ancient Drawback,"-10% Money Obtained, +35% XP Obtained",C,0,0,1,,,icons/ancient-drawback.png,MoneyMultiplier:-0.15000000596046448 | XPMultiplier:0.30000001192092896,1073,Unknown
+Angel Knowledge,+40% XP Obtained,C,0,0,1,,,icons/angel-knowledge.png,XPMultiplier:0.25,1074,Unknown
+Animal Spirits,"-60% Projectile Size, +100% Money Obtained",S,1,0,1,,,icons/animal-spirits.png,MoneyMultiplier:0.8500000238418579,1138,Unknown
+Assassin,"+14 Shot Damage, -80 Max HP",B,0,0,1,,,icons/assassin.png,DamageAdd:21.0 | AdditionalHP:-80.0,1053,Unknown
+Assassin Gear,"+14 Shot Damage, -80 Max HP",B,1,0,1,,,icons/assassin-gear.png,DamageAdd:23.0 | AdditionalHP:-30.0,1052,Unknown
+Aura,-25° Aim Cone,C,0,0,1,,,icons/aura.png,PrecisionFix:36.0,1075,Unknown
+Bear Power,+35% Projectile Speed,D,0,0,1,,,icons/bear-power.png,ProjSpeedPercent:0.3499999940395355,1094,Unknown
+Berserk DNA,"+20° Aim Cone, +3 Shot Damage",E,0,0,1,,,icons/berserk-dna.png,PrecisionFix:-18.0 | DamageAdd:3.0,1118,Unknown
+Beyond,+80% Projectile Damage,A,0,0,1,,,icons/beyond.png,DamagePercent:0.6000000238418579,1034,Unknown
+Big Bang,+80% XP Obtained,S,1,0,1,,,icons/big-bang.png,XPMultiplier:0.550000011920929 | MoneyMultiplier:0.550000011920929,1139,Unknown
+Big Body,+50% Projectile Size,B,0,0,1,,,icons/big-body.png,ProjScalePercent:0.5,1054,Unknown
+Blood Money,+55% Money Obtained,A,0,0,1,,,icons/blood-money.png,MoneyMultiplier:0.44999998807907104,1035,Unknown
+Blood Power,+10 Shot Damage,C,1,0,1,,,icons/blood-power.png,DamageAdd:13.0 | AdditionalHP:-25.0,1076,Unknown
+Boson,,Crafted,0,0,1,Higgs Field,Higgs Field,icons/boson.png,PrecisionFix:3960.0,1004,Unknown
+Bug,"-50% Money Obtained, +150% XP Obtained",B,0,0,1,,,icons/bug.png,MoneyMultiplier:-0.699999988079071 | XPMultiplier:0.75,1055,Unknown
+Bug of Power,+45% Projectile Damage,C,0,0,1,,,icons/bug-of-power.png,DamagePercent:0.3499999940395355,1077,Unknown
+Calculating Eye,"-15° Aim Cone, -15% Fire Rate",E,0,0,1,,,icons/calculating-eye.png,PrecisionFix:18.0 | FireRateReduction:-0.30000001192092896,1119,Unknown
+Calculating Slash,"+100% Projectile Damage, -50% Projectile Speed",S,0,0,1,,,icons/calculating-slash.png,DamagePercent:0.75 | ProjSpeedPercent:-0.5,1140,Unknown
+Carved Arrows,+65% Projectile Speed,A,0,0,1,,,icons/carved-arrows.png,ProjSpeedPercent:0.6499999761581421,1036,Unknown
+Clean Waters,+95 Max HP,A,0,0,1,,,icons/clean-waters.png,AdditionalHP:200.0,1037,Unknown
+Cleanliness,+70 Max HP,B,0,0,1,,,icons/cleanliness.png,AdditionalHP:150.0,1056,Unknown
+Close Combat,"+12 Shot Damage, -50 Max HP",C,0,0,1,,,icons/close-combat.png,DamageAdd:12.0 | AdditionalHP:-50.0,1078,Unknown
+Control,,Crafted,0,0,1,Demon's Sword,No Control,icons/control.png,DamagePercent:1.75,1005,Unknown
+Coup de Grâce,,Crafted,1,0,3,Final Experiment,Sharp Shot,icons/coup-de-grace.png,DamageAdd:80.0,1006,Unknown
+Cursed Knowledge,+60% XP Obtained,B,0,0,1,,,icons/cursed-knowledge.png,XPMultiplier:0.4000000059604645,1057,Unknown
+Deity Axe,,Infinity,0,0,1,,,icons/deity-axe.png,CritChance:0.05000000074505806,1152,Unknown
+Deity Saber,,Infinity,1,0,1,,,icons/deity-saber.png,CritChance:0.10000000149011612,1153,Unknown
+Deity Staff,,Crafted,0,1,2,Deity Axe,Deity Saber,icons/deity-staff.png,CritChance:0.15000000596046448,1007,Unknown
+Demon,+90% Projectile Damage,S,0,0,1,,,icons/demon.png,DamagePercent:0.699999988079071,1141,Unknown
+Demon's Sword,,Crafted,0,0,1,Demon,Druid's Sword,icons/demon-s-sword.png,DamagePercent:1.2000000476837158,1008,Unknown
+Determination,+60% Projectile Damage,B,0,0,1,,,icons/determination.png,DamagePercent:0.44999998807907104,1058,Unknown
+Dimensional Pull,"+150% Knockback, -50% Projectile Damage",Infinity,0,1,3,,,icons/dimensional-pull.png,KnockbackPercent:1.2999999523162842,1154,Unknown
+Disaster,"+100% Money Obtained, -90% XP Obtained",A,0,0,1,,,icons/disaster.png,MoneyMultiplier:0.75 | XPMultiplier:-1.0,1038,Unknown
+Divine Suggestion,+45% Money Obtained,B,1,0,1,,,icons/divine-suggestion.png,MoneyMultiplier:0.44999998807907104,1059,Unknown
+Dragonborn,"+2 Projectile Shot, -70% Projectile Damage",A,0,0,1,,,icons/dragonborn.png,ExtraPellets:2.0 | DamagePercent:-0.4000000059604645,1039,Unknown
+Dragonmade,,Crafted,0,0,1,Dragonborn,Dragonborn,icons/dragonmade.png,ExtraPellets:3.0,1009,Unknown
+Druid,"-60% Projectile Size, +100% Money Obtained",S,0,0,1,,,icons/druid.png,ProjScalePercent:-0.6000000238418579 | MoneyMultiplier:0.8500000238418579,1142,Unknown
+Druid's Sword,+30% Projectile Damage,D,0,0,1,,,icons/druid-s-sword.png,DamagePercent:0.25,1095,Unknown
+Dual Wield,+30% Projectile Damage,D,1,0,1,,,icons/dual-wield.png,DamagePercent:0.20000000298023224 | DamageAdd:6.0,1096,Unknown
+Enlightenment,,Crafted,0,1,3,Sapiens,Angel Knowledge,icons/enlightenment.png,XPMultiplier:1.25,1010,Unknown
+Expanded Mind,+20% Projectile Size,E,0,0,1,,,icons/expanded-mind.png,ProjScalePercent:0.20000000298023224,1120,Unknown
+Expansion,+60% Projectile Size,A,0,1,2,,,icons/expansion.png,ProjScalePercent:0.75 | AdditionalHP:-60.0,1040,Unknown
+Experiment,"+18 Shot Damage, -999 Max HP",Infinity,0,0,1,,,icons/experiment.png,DamageAdd:27.0 | AdditionalHP:-999.0,1155,Unknown
+Eye of Desire,-55° Aim Cone,S,0,0,1,,,icons/eye-of-desire.png,PrecisionFix:144.0,1143,Unknown
+Failed Experiment,+15 Shot Damage,Infinity,0,0,1,,,icons/failed-experiment.png,DamageAdd:23.0,1156,Unknown
+Fangs,+3 Shot Damage,D,0,1,2,,,icons/fangs.png,DamageAdd:4.0,1097,Unknown
+Fast Learner,"-25% Fire Rate, +50% XP Obtained",D,0,0,1,,,icons/fast-learner.png,FireRateReduction:-0.4000000059604645 | XPMultiplier:0.30000001192092896,1098,Unknown
+Fear,"+30 Max HP, -40% Knockback",D,0,0,1,,,icons/fear.png,AdditionalHP:40.0 | KnockbackPercent:-0.4000000059604645,1099,Unknown
+Final Experiment,,Crafted,0,1,3,Failed Experiment,Experiment,icons/final-experiment.png,DamageAdd:40.0,1011,Unknown
+Firm Grip,"+100 Max HP, +50° Aim Cone",C,0,0,1,,,icons/firm-grip.png,CritMultiplier:1.5,1079,Unknown
+Force,"+120% Projectile Size, -50% Projectile Speed",Infinity,0,0,1,,,icons/force.png,ProjScalePercent:1.2000000476837158 | ProjSpeedPercent:-0.5,1157,Unknown
+Frog,+15% Projectile Speed,E,0,0,1,,,icons/frog.png,ProjSpeedPercent:0.15000000596046448,1121,Unknown
+Fruit Reaper,"+200% Money Obtained, -999% XP Obtained",Infinity,0,1,2,,,icons/fruit-reaper.png,MoneyMultiplier:1.2000000476837158 | XPMultiplier:-0.5,1158,Unknown
+Genius,"-35% Fire Rate, +120% XP Obtained",C,0,0,1,,,icons/genius.png,FireRateReduction:-0.550000011920929 | XPMultiplier:0.6000000238418579,1080,Unknown
+Glass Cannon,"-10 Max HP, +40% Knockback",C,0,0,1,,,icons/glass-cannon.png,AdditionalHP:-10.0 | KnockbackPercent:0.4000000059604645,1081,Unknown
+Gold Cannon,"-40 Max HP, +80% Knockback",B,0,0,1,,,icons/gold-cannon.png,AdditionalHP:-40.0 | KnockbackPercent:0.800000011920929,1060,Unknown
+Gold Plating,"+10% Money Obtained, +10% XP Obtained",D,0,0,1,,,icons/gold-plating.png,XPMultiplier:0.10000000149011612 | MoneyMultiplier:0.10000000149011612,1100,Unknown
+Golem,"-25% Projectile Speed, +40% Projectile Size",D,0,0,1,,,icons/golem.png,ProjSpeedPercent:-0.25 | ProjScalePercent:0.4000000059604645,1101,Unknown
+Golemification,,Crafted,0,0,1,Wind Golem,Golem,icons/golemification.png,KnockbackPercent:1.5 | FireRateReduction:1.2000000476837158,1012,Unknown
+Grit,+20% Fire Rate,D,0,0,1,,,icons/grit.png,FireRateReduction:0.44999998807907104,1102,Unknown
+Hammer,"+20° Aim Cone, +40% Projectile Damage",D,0,0,1,,,icons/hammer.png,PrecisionFix:-18.0 | DamagePercent:0.30000001192092896,1103,Unknown
+Hand,"+200% Money Obtained, -999% XP Obtained",Infinity,0,0,1,,,icons/hand.png,MoneyMultiplier:1.0 | XPMultiplier:-1.0,1159,Unknown
+Hand of Greed,+25% Money Obtained,D,0,0,1,,,icons/hand-of-greed.png,MoneyMultiplier:0.20000000298023224,1104,Unknown
+Health Aura,+20 Max HP,C,0,0,1,,,icons/health-aura.png,AdditionalHP:70.0,1082,Unknown
+Health Tradeoff,"-5 Max HP, +25% Projectile Damage",E,0,0,1,,,icons/health-tradeoff.png,AdditionalHP:-5.0 | DamagePercent:0.20000000298023224,1122,Unknown
+Heart Rate,"+16 Shot Damage, -120 Max HP",A,0,0,1,,,icons/heart-rate.png,DamageAdd:16.0 | AdditionalHP:-120.0,1041,Unknown
+Hearty Drink,+10 Max HP,D,1,0,1,,,icons/hearty-drink.png,AdditionalHP:40.0 | DamageAdd:-3.0,1105,Unknown
+Heavy Bullets,+60% Projectile Damage,B,0,1,3,,,icons/heavy-bullets.png,DamagePercent:0.550000011920929 | ProjSpeedPercent:-0.30000001192092896,1061,Unknown
+Heavy Equipment,"-25% Projectile Speed, +65% Projectile Size",B,0,1,2,,,icons/heavy-equipment.png,ProjSpeedPercent:-0.10000000149011612 | ProjScalePercent:0.800000011920929,1062,Unknown
+Heavy Mace,"+40% Projectile Damage, -25% Projectile Speed",D,0,0,1,,,icons/heavy-mace.png,DamagePercent:0.30000001192092896 | ProjSpeedPercent:-0.25,1106,Unknown
+Heavy Weapon,"+5 Shot Damage, -25% Fire Rate",E,0,0,1,,,icons/heavy-weapon.png,DamageAdd:5.0 | FireRateReduction:-0.4000000059604645,1123,Unknown
+Higgs Field,,Crafted,0,0,1,Jupiter,Jupiter,icons/higgs-field.png,PrecisionFix:1980.0,1013,Unknown
+Holy Necklace,+115 Max HP,S,1,0,1,,,icons/holy-necklace.png,AdditionalHP:600.0 | DamagePercent:-0.5,1144,Unknown
+Holy Water Mend,,Crafted,1,0,1,Water Mend,Ultimate Water Mend,icons/holy-water-mend.png,AdditionalHP:1.0 | DamagePercent:5.0 | DamageAdd:100.0 | FireRateReduction:2.0,1014,Unknown
+Horseshoe,"+60% Fire Rate, -90% Knockback",A,0,0,1,,,icons/horseshoe.png,FireRateReduction:1.2999999523162842 | KnockbackPercent:-0.8999999761581421,1042,Unknown
+Hunter Rune,-20° Aim Cone,D,0,0,1,,,icons/hunter-rune.png,PrecisionFix:43.20000076293945,1107,Unknown
+Jupiter,-999° Aim Cone,Infinity,0,0,1,,,icons/jupiter.png,PrecisionFix:990.0,1160,Unknown
+Justice,"+50% Money Obtained, +50% XP Obtained",S,0,0,1,,,icons/justice.png,XPMultiplier:0.4000000059604645 | MoneyMultiplier:0.4000000059604645,1145,Unknown
+Keen Eye,-5° Aim Cone,E,0,0,1,,,icons/keen-eye.png,PrecisionFix:54.0,1124,Unknown
+Launch Staff,+55% Projectile Speed,B,0,0,1,,,icons/launch-staff.png,ProjSpeedPercent:0.550000011920929,1063,Unknown
+Learning Dew,"-25% Fire Rate, +50% XP Obtained",D,0,1,3,,,icons/learning-dew.png,XPMultiplier:0.25,1108,Unknown
+Life Necklace,+10 Max HP,D,0,0,1,,,icons/life-necklace.png,AdditionalHP:25.0,1109,Unknown
+Light Mace,,Crafted,0,0,1,Musical Inspiration,Heavy Equipment,icons/light-mace.png,FireRateReduction:2.0 | ProjScalePercent:1.2000000476837158,1015,Unknown
+Lightning Rod,+50% Knockback,B,0,0,1,,,icons/lightning-rod.png,CritChance:0.019999999552965164,1064,Unknown
+Living Projectile,"+1 Projectile Shot, -20% Fire Rate",B,0,0,1,,,icons/living-projectile.png,ExtraPellets:1.0 | FireRateReduction:-0.5,1065,Unknown
+Love,+45% Fire Rate,Infinity,0,0,1,,,icons/love.png,FireRateReduction:2.0,1161,Unknown
+Lust,+45% Fire Rate,Infinity,1,0,1,,,icons/lust.png,FireRateReduction:2.0999999046325684,1162,Unknown
+Magic Control,+90% Projectile Damage,S,0,1,2,,,icons/magic-control.png,DamagePercent:0.75 | DamageAdd:15.0,1146,Unknown
+Materials,+35% Projectile Size,C,0,0,1,,,icons/materials.png,ProjScalePercent:0.3499999940395355,1083,Unknown
+Matterless Arrows,,Crafted,0,0,1,Aerodynamics,Carved Arrows,icons/matterless-arrows.png,ProjSpeedPercent:1.0,1016,Unknown
+Moon Health,+500 Max HP,Infinity,0,0,1,,,icons/moon-health.png,AdditionalHP:750.0,1163,Unknown
+Moulded Blade,,Crafted,0,1,3,Deity Axe,Moulding Lava,icons/moulded-blade.png,CritChance:0.05000000074505806 | CritMultiplier:4.5,1017,Unknown
+Moulded Deity,,Crafted,1,0,1,Moulded Blade,Deity Staff,icons/moulded-deity.png,CritChance:0.17000000178813934 | CritMultiplier:7.0,1018,Unknown
+Moulded Lightning,,Crafted,1,0,1,Moulded Will,Moulded Will,icons/moulded-lightning.png,CritMultiplier:5.0,1019,Unknown
+Moulded Will,"+3 Projectile Shot, -95% Projectile Damage",Infinity,0,0,1,,,icons/moulded-will.png,CritMultiplier:4.0,1164,Unknown
+Moulding Lava,"+3 Projectile Shot, -95% Projectile Damage",Infinity,0,1,3,,,icons/moulding-lava.png,CritMultiplier:4.5,1165,Unknown
+Multiblast,,Crafted,0,0,1,Wizardry,Multishot,icons/multiblast.png,ExtraPellets:4.0 | DamagePercent:-0.4000000059604645,1020,Unknown
+Multigash,,Crafted,0,0,1,Multiblast,Rune Mastery,icons/multigash.png,ExtraPellets:4.0 | DamagePercent:-0.10000000149011612,1021,Unknown
+Multiplication,,Crafted,1,0,1,Expansion,Materials,icons/multiplication.png,ProjScalePercent:2.5,1022,Unknown
+Multishot,"+1 Projectile Shot, -50% Projectile Damage",C,0,0,1,,,icons/multishot.png,ExtraPellets:1.0 | DamagePercent:-0.3499999940395355,1084,Unknown
+Musical Inspiration,+25% Fire Rate,C,0,0,1,,,icons/musical-inspiration.png,FireRateReduction:0.6000000238418579,1085,Unknown
+Nice Lamp,+115 Max HP,S,0,0,1,,,icons/nice-lamp.png,AdditionalHP:400.0,1147,Unknown
+Nimble Fabrics,"+45% Fire Rate, -80% Knockback",B,0,0,1,,,icons/nimble-fabrics.png,FireRateReduction:0.8500000238418579 | KnockbackPercent:-0.800000011920929,1066,Unknown
+No Control,"+80° Aim Cone, +130% Projectile Damage",S,0,0,1,,,icons/no-control.png,PrecisionFix:-90.0 | DamagePercent:1.0,1148,Unknown
+No Pain,,Crafted,0,0,1,Aura,Clean Waters,icons/no-pain.png,PrecisionFix:792.0 | AdditionalHP:850.0,1023,Unknown
+Nucleus,,Crafted,0,1,2,Big Bang,Big Bang,icons/nucleus.png,XPMultiplier:1.0 | MoneyMultiplier:1.0,1024,Unknown
+Passion,,Crafted,1,0,1,Love,Lust,icons/passion.png,FireRateReduction:3.0,1025,Unknown
+Peace,,Crafted,0,1,5,Enlightenment,Learning Dew,icons/peace.png,XPMultiplier:2.5,1026,Unknown
+Phase Powers,+40% Fire Rate,A,1,0,1,,,icons/phase-powers.png,FireRateReduction:1.399999976158142 | DamageAdd:-10.0,1043,Unknown
+Phoenix,,Crafted,0,1,2,Enlightenment,Sleight of Hand,icons/phoenix.png,XPMultiplier:2.0 | MoneyMultiplier:2.0,1027,Unknown
+Present,"-35% Projectile Speed, +12 Shot Damage",B,0,0,1,,,icons/present.png,ProjSpeedPercent:-0.3499999940395355 | DamageAdd:18.0,1067,Unknown
+Pushing Flow,"+150% Knockback, -50% Projectile Damage",Infinity,0,0,1,,,icons/pushing-flow.png,KnockbackPercent:1.5 | DamagePercent:-0.20000000298023224,1166,Unknown
+Quick Moves,"+40% Fire Rate, -50% Knockback",C,0,0,1,,,icons/quick-moves.png,FireRateReduction:0.75 | KnockbackPercent:-0.5,1086,Unknown
+Rabid Beast,,Crafted,0,0,1,Experiment,No Control,icons/rabid-beast.png,DamageAdd:27.0 | DamagePercent:1.0,1028,Unknown
+Ram Hoof,+10% XP Obtained,E,0,0,1,,,icons/ram-hoof.png,XPMultiplier:0.10000000149011612,1125,Unknown
+Rich Ghost,+15% Money Obtained,E,0,0,1,,,icons/rich-ghost.png,MoneyMultiplier:0.10000000149011612,1126,Unknown
+Rune Mastery,"+3 Projectile Shot, -95% Projectile Damage",Infinity,0,1,2,,,icons/rune-mastery.png,ExtraPellets:3.0,1167,Unknown
+Sack,+45% Money Obtained,B,0,0,1,,,icons/sack.png,MoneyMultiplier:0.3499999940395355,1068,Unknown
+Sapiens,+80% XP Obtained,S,0,0,1,,,icons/sapiens.png,XPMultiplier:0.550000011920929,1149,Unknown
+Scientific Knowledge,+25% XP Obtained,D,0,0,1,,,icons/scientific-knowledge.png,XPMultiplier:0.20000000298023224,1110,Unknown
+Screw,"-35% Projectile Speed, +2.5 Shot Damage",E,0,0,1,,,icons/screw.png,ProjSpeedPercent:-0.3499999940395355 | DamageAdd:2.5,1127,Unknown
+Seeping Skull,+70% XP Obtained,A,0,0,1,,,icons/seeping-skull.png,XPMultiplier:0.44999998807907104,1044,Unknown
+Shadow Strikes,+80% Projectile Damage,A,0,0,1,,,icons/shadow-strikes.png,CritMultiplier:3.0,1045,Unknown
+Sharp Armor,"+7 Shot Damage, -20 Max HP",D,0,0,1,,,icons/sharp-armor.png,DamageAdd:7.0 | AdditionalHP:-20.0,1111,Unknown
+Sharp Shot,"+1.5 Shot Damage
+",E,0,0,1,,,icons/sharp-shot.png,DamageAdd:1.5,1128,Unknown
+Sight of Light,+45% Projectile Speed,C,0,0,1,,,icons/sight-of-light.png,ProjSpeedPercent:0.44999998807907104,1087,Unknown
+Simple Prayer,"+5% Money Obtained, +5% XP Obtained",E,0,0,1,,,icons/simple-prayer.png,XPMultiplier:0.05000000074505806 | MoneyMultiplier:0.05000000074505806,1129,Unknown
+Singularity,"+30% Money Obtained, +30% XP Obtained",A,0,0,1,,,icons/singularity.png,XPMultiplier:0.30000001192092896 | MoneyMultiplier:0.30000001192092896,1046,Unknown
+Skull,"+40° Aim Cone, +90% Projectile Damage",B,0,0,1,,,icons/skull.png,PrecisionFix:-54.0 | DamagePercent:0.6499999761581421,1069,Unknown
+Sleight of Hand,,Crafted,1,0,1,Rich Ghost,Fruit Reaper,icons/sleight-of-hand.png,MoneyMultiplier:2.0,1029,Unknown
+Slumber,"-15% Fire Rate, +30% XP Obtained",E,0,0,1,,,icons/slumber.png,FireRateReduction:-0.30000001192092896 | XPMultiplier:0.20000000298023224,1130,Unknown
+Small Power,"+5 Shot Damage, -25% Fire Rate",E,1,0,1,,,icons/small-power.png,DamageAdd:4.0,1131,Unknown
+Spectral Channeling,"+20% Money Obtained, +20% XP Obtained",B,0,0,1,,,icons/spectral-channeling.png,XPMultiplier:0.20000000298023224 | MoneyMultiplier:0.20000000298023224,1070,Unknown
+Speed Rune,+15% Fire Rate,E,0,0,1,,,icons/speed-rune.png,FireRateReduction:0.30000001192092896,1132,Unknown
+Split Shot,"+1 Projectile Shot, -70% Projectile Damage",D,0,0,1,,,icons/split-shot.png,ExtraPellets:1.0 | DamagePercent:-0.550000011920929,1112,Unknown
+Sprouting Plants,"+100 Max HP, +50° Aim Cone",C,0,1,2,,,icons/sprouting-plants.png,AdditionalHP:120.0,1088,Unknown
+Steady Hand,-35° Aim Cone,B,0,0,1,,,icons/steady-hand.png,PrecisionFix:126.0,1071,Unknown
+Storm Glove,,Crafted,0,1,2,Pushing Flow,Wind Glove,icons/storm-glove.png,KnockbackPercent:2.0,1030,Unknown
+Strong Kicks,"-50 Max HP, +100% Knockback",A,0,0,1,,,icons/strong-kicks.png,AdditionalHP:-50.0 | KnockbackPercent:1.0,1047,Unknown
+Strong Potion,+20% Projectile Damage,E,0,0,1,,,icons/strong-potion.png,DamagePercent:0.15000000596046448,1133,Unknown
+Sword de Grâce,,Crafted,0,0,1,Final Experiment,Trident,icons/sword-de-grace.png,DamageAdd:65.0,1031,Unknown
+Tactical Weaponry,+80% Projectile Damage,A,1,0,1,,,icons/tactical-weaponry.png,DamagePercent:0.699999988079071,1048,Unknown
+Thick Skin,"+40% Fire Rate, -50% Knockback",C,1,0,1,,,icons/thick-skin.png,FireRateReduction:0.6499999761581421,1089,Unknown
+Thread of Fate,+40% Fire Rate,A,0,0,1,,,icons/thread-of-fate.png,FireRateReduction:1.0,1049,Unknown
+Tiger Spirit,"+5 Shot Damage, -15° Aim Cone",D,0,0,1,,,icons/tiger-spirit.png,DamageAdd:5.0 | PrecisionFix:-15.0,1113,Unknown
+Trained Muscles,+10 Shot Damage,C,0,0,1,,,icons/trained-muscles.png,DamageAdd:10.0,1090,Unknown
+Treasure,"-10% Money Obtained, +35% XP Obtained",C,0,1,3,,,icons/treasure.png,MoneyMultiplier:0.3499999940395355,1091,Unknown
+Treasure Trove,+65% Money Obtained,S,0,0,1,,,icons/treasure-trove.png,MoneyMultiplier:0.550000011920929,1150,Unknown
+Trident,+3 Shot Damage,D,0,0,1,,,icons/trident.png,DamageAdd:3.0,1114,Unknown
+Truth,+60% Projectile Size,A,0,0,1,,,icons/truth.png,ProjScalePercent:0.6000000238418579,1050,Unknown
+Ultimate Water Mend,,Crafted,0,0,1,Water Mend,Water Mend,icons/ultimate-water-mend.png,AdditionalHP:1000.0,1032,Unknown
+Water Mend,+5 Max HP,E,0,0,1,,,icons/water-mend.png,AdditionalHP:15.0,1134,Unknown
+Wealth Texts,+35% Money Obtained,C,0,0,1,,,icons/wealth-texts.png,MoneyMultiplier:0.25,1092,Unknown
+Weapon Master,"+18 Shot Damage, -999 Max HP",Infinity,1,0,1,,,icons/weapon-master.png,DamageAdd:30.0 | AdditionalHP:-1000.0,1168,Unknown
+Weeds,"+100 Max HP, +50° Aim Cone",C,0,0,1,,,icons/weeds.png,AdditionalHP:100.0 | PrecisionFix:-50.0,1093,Unknown
+Wind Glove,+25% Knockback,D,0,0,1,,,icons/wind-glove.png,KnockbackPercent:0.25,1115,Unknown
+Wind Golem,+50% Knockback,B,0,0,1,,,icons/wind-golem.png,KnockbackPercent:0.5,1072,Unknown
+Wind Sword,+75% Knockback,S,0,0,1,,,icons/wind-sword.png,KnockbackPercent:0.75,1151,Unknown
+Wizardry,"+3 Projectile Shot, -95% Projectile Damage",Infinity,0,0,1,,,icons/wizardry.png,ExtraPellets:3.0 | DamagePercent:-0.4000000059604645,1169,Unknown
+Wrench,+15% Knockback,E,0,0,1,,,icons/wrench.png,KnockbackPercent:0.15000000596046448,1135,Unknown
