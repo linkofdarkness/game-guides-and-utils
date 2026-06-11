@@ -281,14 +281,15 @@ flowchart TD
 
 ```mermaid
 flowchart TD
-  deity_axe["Deity Axe"]
+  deity_axe1["Deity Axe"]
+  deity_axe2["Deity Axe"]
   moulding_lava["Moulding Lava"]
   moulded_blade["Moulded Blade"]
   deity_saber["Deity Saber"]
   deity_staff["Deity Staff"]
   moulded_deity["Moulded Deity"]
-  deity_axe --> deity_staff
-  deity_axe --> moulded_blade
+  deity_axe1 --> deity_staff
+  deity_axe2 --> moulded_blade
   deity_saber --> deity_staff
   deity_staff --> moulded_deity
   moulded_blade --> moulded_deity
