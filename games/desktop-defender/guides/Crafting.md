@@ -6,6 +6,8 @@ After Rebirthing for the first time, you now unlock Forging. Clicking on this me
 
 ⚠️Items must be on the ground to be used in crafting, items equipped in any loot loadout will not be usable and must be dropped.
 
+You can track items found, crafted, and recipes in your compendium.
+
 ## Table of contents
 
 - [Ingredient items](#ingredient-items)
