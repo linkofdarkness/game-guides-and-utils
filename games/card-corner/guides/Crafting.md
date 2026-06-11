@@ -345,8 +345,8 @@ flowchart TD
   unforged_blade["Unforged Blade"]
   anvil["Anvil"]
   dragvandil["Dragvandil"]
-  anvil --> dragvandil
   unforged_blade --> dragvandil
+  anvil --> dragvandil
   yellow_gem --> unforged_blade
   yellow_pearl --> unforged_blade
 ```
@@ -366,9 +366,9 @@ flowchart TD
   earth_skull["Earth Skull"]
   anvil["Anvil"]
   earth_staff["Earth Staff"]
-  anvil --> earth_staff
   earth_hat --> earth_skull
   earth_skull --> earth_staff
+  anvil --> earth_staff
   earth_tablet --> earth_skull
 ```
 
@@ -534,9 +534,9 @@ flowchart TD
   ice_skull["Ice Skull"]
   anvil["Anvil"]
   ice_staff["Ice Staff"]
-  anvil --> ice_staff
   ice_hat --> ice_skull
   ice_skull --> ice_staff
+  anvil --> ice_staff
   ice_tablet --> ice_skull
 ```
 
@@ -769,9 +769,9 @@ flowchart TD
   captain_s_key["Captain's Key"]
   trap["Trap"]
   acid_battery --> quantum_battery
-  captain_s_key --> trap
   fusion_reactor --> quantum_battery
   quantum_battery --> trap
+  captain_s_key --> trap
 ```
 
 ### Vampire Jaws
@@ -819,9 +819,9 @@ flowchart TD
   wind_skull["Wind Skull"]
   anvil["Anvil"]
   wind_staff["Wind Staff"]
-  anvil --> wind_staff
   wind_hat --> wind_skull
   wind_skull --> wind_staff
+  anvil --> wind_staff
   wind_tablet --> wind_skull
 ```
 
