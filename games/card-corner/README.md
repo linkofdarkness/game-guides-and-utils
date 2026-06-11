@@ -12,7 +12,15 @@ Developed by **Conradical Games** and published by **Assemble Entertainment GmbH
 
 A thorough guide on gameplay, items, achievements, builds, etc has been put together by [vonekiller](https://steamcommunity.com/id/vonekiller) on Steam.
 
-[🔗 Simple Guide + Tips](https://steamcommunity.com/sharedfiles/filedetails/?id=3682761808)
+- [🔗 Simple Guide + Tips](https://steamcommunity.com/sharedfiles/filedetails/?id=3682761808)
+
+
+### Deck Builder
+
+A web utility for testing different deck builds was created by [R3C0D3r](https://steamcommunity.com/id/cryptographcoder) on Steam.
+
+- [🔗 Build / Deck Optimizer Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3692359256#8778777)
+- [🔗 Build / Deck Optimizer Codepen](https://codepen.io/R3C0D3r/pen/wBzqzdg)
 
 
 ### [Crafting Guide](guides/Crafting.md)
