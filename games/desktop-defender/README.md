@@ -12,7 +12,7 @@ Developed by **Conradical Games** and published by **Poysky Productions**.
 
 A thorough guide on gameplay, items, achievements, builds, etc has been put together by [vonekiller](https://steamcommunity.com/id/vonekiller) on Steam.
 
-[🔗 Simple Guide + Tips](https://steamcommunity.com/sharedfiles/filedetails/?id=3602435715)
+- [🔗 Simple Guide + Tips](https://steamcommunity.com/sharedfiles/filedetails/?id=3602435715)
 
 
 ### [Crafting Guide](guides/Crafting.md)
