@@ -2,9 +2,11 @@
 
 A simple crafting guide for Card Corner, showing what items to hold onto for crafting and what ingredients create which items.
 
-After Rebirthing for the first time, you now unlock Forging. Clicking on this menu will allow you to combine two pieces of loot on the floor to make an even stronger piece of loot if they're part of a crafting recipe.
+After reaching level 100 you unlock crafting. Clicking on this menu item will allow you to combine two pieces of loot on the floor to make an even stronger piece of loot if they're part of a crafting recipe.
 
 ⚠️Items must be on the ground to be used in crafting, items equipped in any loot loadout will not be usable and must be dropped.
+
+You can track items found, crafted, and recipes in your compendium.
 
 ## Table of contents
 
