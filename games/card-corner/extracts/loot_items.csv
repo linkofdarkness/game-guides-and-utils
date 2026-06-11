@@ -1,0 +1,201 @@
+lootName,rarity,unique,limited,limitCount,craftMaterial1,craftMaterial2,iconFile,requiresSecretHandsUnlock,statModifiersFormatted,pathId,script
+Ace's Attire,Epic,0,1,2,,,icons/ace-s-attire.png,0,"AceMult(Percent):0.10000000149011612,building=Shuffling Pro",1353,Unknown
+Acid Battery,Epic,0,0,1,,,icons/acid-battery.png,0,"BlindDuration(Flat):2.5,building=Shuffling Pro | ChipMultiplier(Percent):-0.10000000149011612",1354,Unknown
+Ammo,Crafted,0,0,3,Naval Hat,Rocket Engine,icons/ammo.png,0,Momentum(Percent):3.0,1216,Unknown
+Angler Fish,Crafted,1,0,1,Urchin,Starfish,icons/angler-fish.png,0,"BonusAfterHit(Percent):9.0,building=Shuffling Pro",1217,Unknown
+Anvil,Legendary,0,0,3,,,icons/anvil.png,0,,1389,Unknown
+Apple,Common,0,0,1,,,icons/apple.png,0,"PeriodicHPRegen(Flat):2.0,every30.0s",1267,Unknown
+Azure Blade,Crafted,0,1,3,Azure Tear,Azure Gem,icons/azure-blade.png,0,"QuadsMult(Percent):9.0,building=Shuffling Pro",1218,Unknown
+Azure Gem,Rare,0,0,1,,,icons/azure-gem.png,0,"QuadsMult(Percent):1.0,building=Shuffling Pro",1321,Unknown
+Azure Tear,Legendary,0,1,2,,,icons/azure-tear.png,0,"QuadsMult(Percent):2.0,building=Shuffling Pro",1390,Unknown
+Bearded Axe,Epic,1,0,1,,,icons/bearded-axe.png,0,"HighHealthMult(Percent):1.0,hp<0.5 | CritMultiplier(Flat):0.25",1355,Unknown
+Bill,Common,1,0,1,,,icons/bill.png,0,ItemSellBonus(Percent):1.0,1268,Unknown
+Bill Stack,Uncommon,1,0,1,,,icons/bill-stack.png,0,ItemSellBonus(Percent):2.0,1292,Unknown
+Black Blade,Crafted,0,1,3,Black Gem,Black Pearl,icons/black-blade.png,0,"FullHouseMult(Percent):9.0,building=Shuffling Pro",1219,Unknown
+Black Gem,Rare,0,0,1,,,icons/black-gem.png,0,"FullHouseMult(Percent):1.0,building=Shuffling Pro",1322,Unknown
+Black Pearl,Legendary,0,1,2,,,icons/black-pearl.png,0,"FullHouseMult(Percent):2.0,building=Shuffling Pro",1391,Unknown
+Black Powder,Uncommon,0,0,1,,,icons/black-powder.png,0,FlatChips(Percent):0.4000000059604645 | BlindDuration(Percent):-0.4000000059604645,1293,Unknown
+Blue Blade,Crafted,0,1,3,Blue Gem,Blue Pearl,icons/blue-blade.png,0,"HighCardMult(Percent):9.0,building=Shuffling Pro",1220,Unknown
+Blue Compass,Common,1,0,1,,,icons/blue-compass.png,0,"Allow4CardStraight(Flat):1.0,building=Shuffling Pro",1269,Unknown
+Blue Flame,Legendary,0,1,2,,,icons/blue-flame.png,1,"FlushFiveMult(Percent):2.0,building=Shuffling Pro",1392,Unknown
+Blue Gem,Common,0,0,1,,,icons/blue-gem.png,0,"HighCardMult(Percent):0.5,building=Shuffling Pro",1270,Unknown
+Blue Pearl,Epic,0,0,1,,,icons/blue-pearl.png,0,"HighCardMult(Percent):3.0,building=Shuffling Pro",1356,Unknown
+Blue Staff,Crafted,0,1,3,Blue Flame,Blue Blade,icons/blue-staff.png,0,"FlushFiveMult(Percent):9.0,building=Shuffling Pro",1221,Unknown
+Bone Club,Epic,1,0,1,,,icons/bone-club.png,0,"LowHealthMult(Percent):1.0,hp<0.5 | CritChance(Flat):0.05000000074505806",1357,Unknown
+Boulder,Uncommon,1,0,1,,,icons/boulder.png,0,"ChipMultiplier(Percent):0.15000000596046448,building=Pit Boss",1294,Unknown
+Build Plans,Epic,0,0,1,,,icons/build-plans.png,0,FlatChips(Percent):1.2000000476837158 | BlindDuration(Percent):-0.3499999940395355,1358,Unknown
+Butterfly,Crafted,1,0,1,Glass Ingot,Starfish,icons/butterfly.png,0,SetMaxHP(Flat):1.0 | ChipMultiplier(Percent):9.0,1222,Unknown
+Captain's Key,Legendary,0,0,1,,,icons/captain-s-key.png,0,FlatChips(Percent):1.5 | BlindDuration(Percent):-0.30000001192092896,1393,Unknown
+Carbon Chips,Rare,1,0,1,,,icons/carbon-chips.png,0,"MaxHP(Flat):1.0,building=Simple Chips",1323,Unknown
+Carbon Compass,Crafted,0,0,3,Green Compass,Blue Compass,icons/carbon-compass.png,0,"CritChance(Percent):0.15000000596046448,building=Shuffling Pro",1223,Unknown
+Carbon Cuirass,Crafted,0,0,3,Carbon Shield,Carbon Chips,icons/carbon-cuirass.png,0,"MaxHP(Flat):150.0,building=Shuffling Pro",1224,Unknown
+Carbon Shield,Rare,1,0,1,,,icons/carbon-shield.png,0,"MaxHP(Flat):25.0 | PeriodicHPRegen(Percent):-1.0,every30.0s",1324,Unknown
+Chlorophyll Chips,Uncommon,1,0,1,,,icons/chlorophyll-chips.png,0,"MaxHP(Flat):1.0,building=Simple Chips",1295,Unknown
+Clockwork,Common,0,0,1,,,icons/clockwork.png,0,"PeriodicMult(Percent):0.6000000238418579,building=Shuffling Pro",1271,Unknown
+Coal,Rare,0,0,1,,,icons/coal.png,0,FlatChips(Percent):0.6000000238418579 | BlindDuration(Percent):-0.30000001192092896,1325,Unknown
+Cog Key,Rare,0,0,1,,,icons/cog-key.png,0,"PeriodicMult(Percent):2.0,every15hands,building=Shuffling Pro",1326,Unknown
+Colorful Fabric,Rare,0,0,1,,,icons/colorful-fabric.png,0,"RainbowMult(Percent):2.0,building=Shuffling Pro",1327,Unknown
+Colossal Container,Epic,1,0,1,,,icons/colossal-container.png,0,Overflow(Flat):0.4000000059604645,1359,Unknown
+Crank,Common,0,0,1,,,icons/crank.png,0,"BlindDuration(Flat):1.0,building=Shuffling Pro",1272,Unknown
+Credit Card,Legendary,0,0,3,,,icons/credit-card.png,0,ItemSellBonus(Percent):4.0,1394,Unknown
+Cuneiform Tablet,Rare,0,0,1,,,icons/cuneiform-tablet.png,0,FlatChips(Percent):0.3499999940395355,1328,Unknown
+Cursed Book,Common,0,0,1,,,icons/cursed-book.png,0,FlatChips(Percent):0.15000000596046448,1273,Unknown
+Dagger,Uncommon,0,1,3,,,icons/dagger.png,0,"CritMultiplier(Percent):0.30000001192092896,every20.0s,building=Pit Boss",1296,Unknown
+Diving Helmet,Uncommon,1,0,1,,,icons/diving-helmet.png,0,"LowHealthMult(Percent):1.5,hp<0.15000000596046448",1297,Unknown
+Dragvandil,Crafted,1,0,3,Unforged Blade,Anvil,icons/dragvandil.png,0,"CritMultiplier(Percent):10.0,building=Shuffling Pro | FlatChips(Percent):9.0,building=Shuffling Pro",1225,Unknown
+Dry Aged Meat,Rare,0,0,1,,,icons/dry-aged-meat.png,0,"PeriodicHPRegen(Flat):4.0,every20.0s | MaxHP(Flat):-10.0",1329,Unknown
+Dynamite,Common,0,0,1,,,icons/dynamite.png,0,FlatChips(Percent):0.25 | BlindDuration(Percent):-0.5,1274,Unknown
+Earth Cloak,Epic,0,1,3,,,icons/earth-cloak.png,0,ClubMult(Percent):0.3499999940395355,1360,Unknown
+Earth Hat,Legendary,0,1,3,,,icons/earth-hat.png,0,ClubMult(Percent):0.44999998807907104,1395,Unknown
+Earth Scarf,Rare,0,0,1,,,icons/earth-scarf.png,0,ClubMult(Percent):0.25,1330,Unknown
+Earth Scroll,Uncommon,0,0,1,,,icons/earth-scroll.png,0,ClubMult(Percent):0.15000000596046448,1298,Unknown
+Earth Skull,Crafted,0,1,3,Earth Hat,Earth Tablet,icons/earth-skull.png,0,ClubMult(Percent):0.6499999761581421,1226,Unknown
+Earth Staff,Crafted,1,0,3,Earth Skull,Anvil,icons/earth-staff.png,0,ClubMult(Percent):1.0,1227,Unknown
+Earth Tablet,Common,0,0,1,,,icons/earth-tablet.png,0,ClubMult(Percent):0.10000000149011612,1275,Unknown
+Engine Key,Crafted,0,0,3,Engine Parts,Nut,icons/engine-key.png,0,"PeriodicMult(Percent):13.0,every4hands",1228,Unknown
+Engine Parts,Legendary,1,0,1,,,icons/engine-parts.png,0,PeriodicMult(Percent):9.0,1396,Unknown
+Exalted Excalibur,Crafted,1,0,3,Excalibur,Thurible,icons/exalted-excalibur.png,0,"FlatChips(Percent):24.0,building=Shuffling Pro",1229,Unknown
+Excalibur,Crafted,1,0,3,Prismatic Blade,Saber,icons/excalibur.png,0,"FlatChips(Percent):14.0,building=Shuffling Pro",1230,Unknown
+Expensive Pearl,Rare,0,0,3,,,icons/expensive-pearl.png,0,ItemSellBonus(Percent):2.5,1331,Unknown
+Fighting Claws,Rare,0,1,3,,,icons/fighting-claws.png,0,"CritChance(Percent):0.05000000074505806,every20.0s,building=Pit Boss | MaxHP(Flat):-3.0",1332,Unknown
+Flame Cloak,Epic,0,1,3,,,icons/flame-cloak.png,0,HeartMult(Percent):0.3499999940395355,1361,Unknown
+Flame Hat,Legendary,0,1,3,,,icons/flame-hat.png,0,HeartMult(Percent):0.44999998807907104,1397,Unknown
+Flame Scarf,Rare,0,0,1,,,icons/flame-scarf.png,0,HeartMult(Percent):0.25,1333,Unknown
+Flame Scroll,Uncommon,0,0,1,,,icons/flame-scroll.png,0,HeartMult(Percent):0.15000000596046448,1299,Unknown
+Flame Skull,Crafted,0,1,3,Flame Hat,Flame Tablet,icons/flame-skull.png,0,HeartMult(Percent):0.6499999761581421,1231,Unknown
+Flame Staff,Crafted,1,0,3,Flame Skull,Anvil,icons/flame-staff.png,0,HeartMult(Percent):1.0,1232,Unknown
+Flame Tablet,Common,0,0,1,,,icons/flame-tablet.png,0,HeartMult(Percent):0.10000000149011612,1276,Unknown
+Floppy Disk,Epic,0,0,2,,,icons/floppy-disk.png,0,BlindDuration(Flat):20.0,1362,Unknown
+Forged Shield,Epic,0,0,1,,,icons/forged-shield.png,0,MaxHP(Percent):1.0,1363,Unknown
+Fusion Reactor,Legendary,0,0,1,,,icons/fusion-reactor.png,0,"BlindDuration(Flat):3.0,building=Shuffling Pro | ChipMultiplier(Percent):-0.10000000149011612",1398,Unknown
+Galactic Book,Crafted,0,0,3,Holy Book,Cursed Book,icons/galactic-book.png,0,"ChipMultiplier(Percent):2.5,building=Shuffling Pro",1233,Unknown
+Galactic Bracelet,Crafted,1,0,1,Kingly Bracelet,Power Bracelet,icons/galactic-bracelet.png,0,"ChipMultiplier(Percent):4.0,building=Shuffling Pro",1234,Unknown
+Gambler's Cloak,Epic,1,0,1,,,icons/gambler-s-cloak.png,0,ChipMultiplier(Percent):0.800000011920929 | MaxHP(Flat):-40.0,1364,Unknown
+Glass Chips,Epic,0,0,1,,,icons/glass-chips.png,0,"MaxHP(Flat):1.0,building=Simple Chips",1365,Unknown
+Glass Ingot,Epic,1,0,1,,,icons/glass-ingot.png,0,SetMaxHP(Flat):1.0 | ChipMultiplier(Percent):2.0,1366,Unknown
+Gold Bits,Epic,1,0,1,,,icons/gold-bits.png,0,"ChipMultiplier(Percent):0.25,building=Pit Boss",1367,Unknown
+Gold Chips,Legendary,0,0,1,,,icons/gold-chips.png,0,"MaxHP(Flat):1.0,building=Simple Chips",1399,Unknown
+Gold Crown,Uncommon,0,1,3,,,icons/gold-crown.png,0,"EmptySlotMult(Percent):0.4000000059604645,building=Shuffling Pro",1300,Unknown
+Gold Dice,Crafted,0,1,3,Weighted Dice,Anvil,icons/gold-dice.png,0,"Luck(Flat):3.0,building=Shuffling Pro",1235,Unknown
+Golden Clock,Rare,0,1,2,,,icons/golden-clock.png,0,BlindDuration(Flat):15.0,1334,Unknown
+Golden Compass,Rare,1,0,1,,,icons/golden-compass.png,0,"Allow4CardFlush(Flat):1.0,building=Shuffling Pro | Allow4CardStraight(Flat):1.0",1335,Unknown
+Great Cheese,Rare,0,0,1,,,icons/great-cheese.png,0,MaxHP(Flat):15.0,1336,Unknown
+Green Blade,Crafted,0,1,3,Green Gem,Green Pearl,icons/green-blade.png,0,"StraightFlushMult(Percent):9.0,building=Shuffling Pro",1236,Unknown
+Green Compass,Common,1,0,1,,,icons/green-compass.png,0,"Allow4CardFlush(Flat):1.0,building=Shuffling Pro",1277,Unknown
+Green Flame,Legendary,0,1,2,,,icons/green-flame.png,1,"FiveOfAKindMult(Percent):2.0,building=Shuffling Pro",1400,Unknown
+Green Gem,Rare,0,0,1,,,icons/green-gem.png,0,"StraightFlushMult(Percent):1.0,building=Shuffling Pro",1337,Unknown
+Green Pearl,Legendary,0,1,2,,,icons/green-pearl.png,0,"StraightFlushMult(Percent):2.0,building=Shuffling Pro",1401,Unknown
+Green Staff,Crafted,0,1,3,Green Flame,Green Blade,icons/green-staff.png,0,"FiveOfAKindMult(Percent):9.0,building=Shuffling Pro",1237,Unknown
+Hearty Bread,Epic,0,0,1,,,icons/hearty-bread.png,0,MaxHP(Flat):20.0,1368,Unknown
+Holy Book,Legendary,0,0,1,,,icons/holy-book.png,0,FlatChips(Percent):1.0,1402,Unknown
+Holy Water,Legendary,0,0,1,,,icons/holy-water.png,0,MaxHP(Percent):2.0,1403,Unknown
+Hourglass,Uncommon,0,0,1,,,icons/hourglass.png,0,"PeriodicMult(Percent):1.0,every6hands,building=Shuffling Pro",1301,Unknown
+Ice Cloak,Epic,0,1,3,,,icons/ice-cloak.png,0,DiamondMult(Percent):0.3499999940395355,1369,Unknown
+Ice Hat,Legendary,0,1,3,,,icons/ice-hat.png,0,DiamondMult(Percent):0.44999998807907104,1404,Unknown
+Ice Scarf,Rare,0,0,1,,,icons/ice-scarf.png,0,DiamondMult(Percent):0.25,1338,Unknown
+Ice Scroll,Uncommon,0,0,1,,,icons/ice-scroll.png,0,DiamondMult(Percent):0.15000000596046448,1302,Unknown
+Ice Skull,Crafted,0,1,3,Ice Hat,Ice Tablet,icons/ice-skull.png,0,DiamondMult(Percent):0.6499999761581421,1238,Unknown
+Ice Staff,Crafted,1,0,3,Ice Skull,Anvil,icons/ice-staff.png,0,DiamondMult(Percent):1.0,1239,Unknown
+Ice Tablet,Common,0,0,1,,,icons/ice-tablet.png,0,DiamondMult(Percent):0.10000000149011612,1278,Unknown
+Iron Bits,Rare,1,0,1,,,icons/iron-bits.png,0,"ChipMultiplier(Percent):0.20000000298023224,building=Pit Boss",1339,Unknown
+Iron Clock,Common,0,1,2,,,icons/iron-clock.png,0,BlindDuration(Flat):3.0,1279,Unknown
+Iron Scythe,Rare,0,1,3,,,icons/iron-scythe.png,0,"CritMultiplier(Percent):0.6499999761581421,every20.0s,building=Pit Boss",1340,Unknown
+Iron Shield,Uncommon,1,0,1,,,icons/iron-shield.png,0,MaxHP(Flat):15.0 | FlatChips(Percent):-0.15000000596046448,1303,Unknown
+Jack's Attire,Uncommon,0,1,3,,,icons/jack-s-attire.png,0,"JackMult(Percent):0.10000000149011612,building=Shuffling Pro",1304,Unknown
+Jack's Gloves,Crafted,0,0,1,Jack's Attire,Iron Bits,icons/jack-s-gloves.png,0,"JackMult(Percent):0.25,building=Shuffling Pro",1240,Unknown
+Jellyfish,Rare,1,0,1,,,icons/jellyfish.png,0,"BonusAfterHit(Percent):3.0,building=Shuffling Pro",1341,Unknown
+King's Attire,Rare,0,1,3,,,icons/king-s-attire.png,0,"KingMult(Percent):0.10000000149011612,building=Shuffling Pro",1342,Unknown
+King's Gloves,Crafted,0,0,1,King's Attire,Obsidian Bits,icons/king-s-gloves.png,0,"KingMult(Percent):0.25,building=Shuffling Pro",1241,Unknown
+Kingly Bracelet,Legendary,1,0,1,,,icons/kingly-bracelet.png,0,"ChipMultiplier(Percent):2.0,every20.0s,building=Pit Boss",1405,Unknown
+Large Container,Rare,0,0,1,,,icons/large-container.png,0,"Overflow(Flat):0.20000000298023224,building=Shuffling Pro",1343,Unknown
+Life Chips,Common,1,0,1,,,icons/life-chips.png,0,"MaxHP(Flat):1.0,building=Simple Chips",1280,Unknown
+Life Container,Legendary,1,0,1,,,icons/life-container.png,0,Overflow(Flat):0.6499999761581421 | MaxHP(Percent):-0.75,1406,Unknown
+Life Flask,Uncommon,0,0,1,,,icons/life-flask.png,0,MaxHP(Flat):6.0,1305,Unknown
+Life Herb,Rare,1,0,1,,,icons/life-herb.png,0,"MaxHP(Flat):1.0,building=Covert Transport",1344,Unknown
+Life Root,Epic,0,0,1,,,icons/life-root.png,0,"PeriodicHPRegen(Percent):3.0,every10.0s,building=Pit Boss",1370,Unknown
+Locomotive Bulb,Epic,1,0,1,,,icons/locomotive-bulb.png,0,"PeriodicMult(Percent):1.5,every2hands",1371,Unknown
+Locomotive Part,Epic,1,0,1,,,icons/locomotive-part.png,0,"PeriodicMult(Percent):4.0,every4hands",1372,Unknown
+Love,Legendary,0,0,1,,,icons/love.png,0,MaxHP(Flat):50.0,1407,Unknown
+Materials,Common,1,0,1,,,icons/materials.png,0,"ChipMultiplier(Percent):0.10000000149011612,building=Pit Boss",1281,Unknown
+Meat,Uncommon,0,0,1,,,icons/meat.png,0,"PeriodicHPRegen(Flat):2.0,every15.0s | MaxHP(Flat):-5.0",1306,Unknown
+Medium Container,Uncommon,0,0,1,,,icons/medium-container.png,0,"Overflow(Flat):0.10000000149011612,building=Shuffling Pro",1307,Unknown
+Mining Helmet,Rare,1,0,1,,,icons/mining-helmet.png,0,"LowHealthMult(Percent):2.0,hp<0.10000000149011612",1345,Unknown
+Naval Hat,Legendary,1,0,1,,,icons/naval-hat.png,0,Momentum(Percent):0.75,1408,Unknown
+Nemes,Epic,0,0,3,,,icons/nemes.png,0,EmptySlotMult(Percent):1.0,1373,Unknown
+Nut,Common,0,0,1,,,icons/nut.png,0,"PeriodicMult(Percent):1.2000000476837158,every10hands,building=Shuffling Pro",1282,Unknown
+Obsidian Bits,Legendary,1,0,1,,,icons/obsidian-bits.png,0,"ChipMultiplier(Percent):0.3499999940395355,building=Pit Boss",1409,Unknown
+Orange Blade,Crafted,0,1,3,Orange Gem,Orange Pearl,icons/orange-blade.png,0,"PairMult(Percent):9.0,building=Shuffling Pro",1242,Unknown
+Orange Gem,Common,0,0,1,,,icons/orange-gem.png,0,"PairMult(Percent):0.5,building=Shuffling Pro",1283,Unknown
+Orange Pearl,Epic,0,0,1,,,icons/orange-pearl.png,0,"PairMult(Percent):3.0,building=Shuffling Pro",1374,Unknown
+Pelt,Rare,0,0,1,,,icons/pelt.png,0,"PairMult(Percent):9.0,every20.0s,building=Jewel Dice",1346,Unknown
+Plague Doctor Mask,Common,1,0,1,,,icons/plague-doctor-mask.png,0,"LowHealthMult(Percent):1.0,hp<0.25",1284,Unknown
+Plated Coin,Crafted,1,0,1,Bill,Bill Stack,icons/plated-coin.png,0,"ItemSellBonus(Percent):9.0,building=Shuffling Pro",1243,Unknown
+Platinum Crown,Rare,0,0,3,,,icons/platinum-crown.png,0,"EmptySlotMult(Percent):0.5,building=Shuffling Pro | BlindDuration(Flat):-10.0",1347,Unknown
+Pocket Watch,Crafted,0,0,3,Golden Clock,Silver Clock,icons/pocket-watch.png,0,"BlindDuration(Flat):50.0,building=Shuffling Pro",1244,Unknown
+Pocketwatch,Rare,0,0,1,,,icons/pocketwatch.png,0,"PeriodicMult(Percent):2.5,building=Shuffling Pro",1348,Unknown
+Power Bracelet,Rare,1,0,1,,,icons/power-bracelet.png,0,"ChipMultiplier(Percent):0.5,every20.0s,building=Pit Boss",1349,Unknown
+Pridwen,Crafted,1,0,3,Spirit Shield,Tungsten Weight,icons/pridwen.png,0,"MaxHP(Percent):9.0,building=Shuffling Pro",1245,Unknown
+Prismatic Blade,Crafted,0,1,3,Unforged Blade,Prismatic Diamond,icons/prismatic-blade.png,0,"RoyalFlushMult(Percent):9.0,building=Shuffling Pro",1246,Unknown
+Prismatic Diamond,Legendary,1,0,1,,,icons/prismatic-diamond.png,0,RoyalFlushMult(Percent):3.0,1410,Unknown
+Prismatic Gem,Epic,1,0,1,,,icons/prismatic-gem.png,0,RoyalFlushMult(Percent):2.0,1375,Unknown
+Prismatic Skull,Epic,1,0,1,,,icons/prismatic-skull.png,0,RainbowMult(Percent):1.5 | Luck(Flat):1.0,1376,Unknown
+Purple Blade,Crafted,0,1,3,Purple Pearl,Purple Gem,icons/purple-blade.png,0,"StraightMult(Percent):9.0,building=Shuffling Pro",1247,Unknown
+Purple Flame,Legendary,0,1,2,,,icons/purple-flame.png,1,"FlushHouseMult(Percent):2.0,building=Shuffling Pro",1411,Unknown
+Purple Gem,Uncommon,0,0,1,,,icons/purple-gem.png,0,"StraightMult(Percent):0.75,building=Shuffling Pro",1308,Unknown
+Purple Pearl,Epic,0,0,1,,,icons/purple-pearl.png,0,"StraightMult(Percent):3.0,building=Shuffling Pro",1377,Unknown
+Purple Staff,Crafted,0,1,3,Purple Flame,Purple Blade,icons/purple-staff.png,0,"FlushHouseMult(Percent):9.0,building=Shuffling Pro",1248,Unknown
+Quantum Battery,Crafted,0,0,1,Fusion Reactor,Acid Battery,icons/quantum-battery.png,0,"BlindDuration(Flat):4.0,building=Shuffling Pro",1249,Unknown
+Queen's Attire,Uncommon,0,1,3,,,icons/queen-s-attire.png,0,"QueenMult(Percent):0.10000000149011612,building=Shuffling Pro",1309,Unknown
+Queen's Gloves,Crafted,0,0,1,Queen's Attire,Gold Bits,icons/queen-s-gloves.png,0,"QueenMult(Percent):0.25,building=Shuffling Pro",1250,Unknown
+Radio,Legendary,0,0,2,,,icons/radio.png,0,BlindDuration(Flat):35.0,1412,Unknown
+Red Blade,Crafted,0,1,3,Red Gem,Red Pearl,icons/red-blade.png,0,"TwoPairMult(Percent):9.0,building=Shuffling Pro",1251,Unknown
+Red Cap,Uncommon,0,0,1,,,icons/red-cap.png,0,"PeriodicHPRegen(Percent):1.0,every20.0s,building=Pit Boss",1310,Unknown
+Red Gem,Common,0,0,1,,,icons/red-gem.png,0,"TwoPairMult(Percent):0.5,building=Shuffling Pro",1285,Unknown
+Red Pearl,Epic,0,0,1,,,icons/red-pearl.png,0,"TwoPairMult(Percent):3.0,building=Shuffling Pro",1378,Unknown
+Regal Container,Crafted,1,0,3,Life Container,Red Cap,icons/regal-container.png,0,Overflow(Flat):0.8500000238418579,1252,Unknown
+Regal Robes,Legendary,0,0,3,,,icons/regal-robes.png,0,EmptySlotMult(Percent):2.0,1413,Unknown
+Relic,Epic,0,0,3,,,icons/relic.png,0,ItemSellBonus(Percent):3.0,1379,Unknown
+Rocket Engine,Epic,1,0,1,,,icons/rocket-engine.png,0,Momentum(Percent):0.5,1380,Unknown
+Royal Axe,Crafted,0,0,1,Survival Axe,Bearded Axe,icons/royal-axe.png,0,"LowHealthMult(Percent):4.0,hp<0.5,building=Shuffling Pro | CritChance(Flat):0.05000000074505806",1253,Unknown
+Saber,Crafted,0,0,3,Bone Club,Anvil,icons/saber.png,0,"CritMultiplier(Percent):5.0,building=Shuffling Pro",1254,Unknown
+Seeing Stone,Crafted,0,0,3,Regal Robes,Gold Crown,icons/seeing-stone.png,0,EmptySlotMult(Percent):4.0,1255,Unknown
+Silver Clock,Uncommon,0,1,3,,,icons/silver-clock.png,0,BlindDuration(Flat):5.0,1311,Unknown
+Silver Crown,Common,0,1,3,,,icons/silver-crown.png,0,"EmptySlotMult(Percent):0.30000001192092896,building=Shuffling Pro",1286,Unknown
+Small Container,Common,0,0,1,,,icons/small-container.png,0,"Overflow(Flat):0.05000000074505806,building=Shuffling Pro",1287,Unknown
+Spirit Shield,Crafted,0,0,3,Forged Shield,Life Container,icons/spirit-shield.png,0,"MaxHP(Flat):125.0,building=Shuffling Pro | Overflow(Flat):0.25",1256,Unknown
+Spring,Uncommon,0,0,1,,,icons/spring.png,0,"BlindDuration(Flat):1.0,building=Shuffling Pro",1312,Unknown
+Starfish,Common,1,0,1,,,icons/starfish.png,0,"BonusAfterHit(Percent):1.0,building=Shuffling Pro",1288,Unknown
+Strange Book,Uncommon,0,0,1,,,icons/strange-book.png,0,FlatChips(Percent):0.25,1313,Unknown
+Strange Tablet,Epic,0,0,1,,,icons/strange-tablet.png,0,FlatChips(Percent):0.6000000238418579,1381,Unknown
+Survival Axe,Legendary,1,0,1,,,icons/survival-axe.png,0,LowHealthMult(Percent):1.0 | Overflow(Percent):0.20000000298023224,1414,Unknown
+Thunder Essence,Crafted,1,0,3,Thunder Rod,Fighting Claws,icons/thunder-essence.png,0,"CritChance(Percent):0.20000000298023224,every20.0s,building=Pit Boss",1257,Unknown
+Thunder Rod,Uncommon,1,0,1,,,icons/thunder-rod.png,0,"CritChance(Percent):0.05000000074505806,every20.0s,building=Pit Boss",1314,Unknown
+Thurible,Crafted,0,0,1,Holy Water,Holy Book,icons/thurible.png,0,"MaxHP(Percent):1.5,building=Shuffling Pro | FlatChips(Percent):1.0",1258,Unknown
+Trap,Crafted,0,0,3,Quantum Battery,Captain's Key,icons/trap.png,0,FlatChips(Percent):6.0 | BlindDuration(Percent):-0.5,1259,Unknown
+Tungsten Weight,Crafted,1,0,1,Anvil,Obsidian Bits,icons/tungsten-weight.png,0,"ChipMultiplier(Percent):0.5,building=Pit Boss",1260,Unknown
+Unforged Blade,Legendary,0,0,3,Yellow Pearl,Yellow Gem,icons/unforged-blade.png,0,,1415,Unknown
+Urchin,Legendary,1,0,1,,,icons/urchin.png,0,"BonusAfterHit(Percent):5.0,building=Shuffling Pro",1416,Unknown
+Valve,Uncommon,0,0,1,,,icons/valve.png,0,"PeriodicMult(Percent):1.5,every12hands,building=Shuffling Pro",1315,Unknown
+Vampire Jaws,Crafted,0,0,3,Life Root,Red Cap,icons/vampire-jaws.png,0,"PeriodicHPRegen(Flat):25.0,every15.0s",1261,Unknown
+Warrior Armguards,Rare,0,0,1,,,icons/warrior-armguards.png,0,"CritMultiplier(Percent):1.25,every20.0s,building=Pit Boss | CritChance(Flat):-0.029999999329447746",1350,Unknown
+Warrior Boots,Uncommon,0,0,1,,,icons/warrior-boots.png,0,"CritMultiplier(Percent):0.3499999940395355,every20.0s,building=Pit Boss | CritChance(Flat):-0.05000000074505806",1316,Unknown
+Warrior Plate,Epic,1,0,1,,,icons/warrior-plate.png,0,CritMultiplier(Percent):1.0,1382,Unknown
+Water Mend,Common,0,0,1,,,icons/water-mend.png,0,MaxHP(Flat):3.0,1289,Unknown
+Weighted Dice,Epic,0,1,3,,,icons/weighted-dice.png,0,Luck(Flat):1.0,1383,Unknown
+White Blade,Crafted,0,1,3,White Pearl,White Gem,icons/white-blade.png,0,"TripsMult(Percent):9.0,building=Shuffling Pro",1262,Unknown
+White Gem,Uncommon,0,0,1,,,icons/white-gem.png,0,"TripsMult(Percent):0.75,building=Shuffling Pro",1317,Unknown
+White Pearl,Epic,0,0,1,,,icons/white-pearl.png,0,"TripsMult(Percent):3.0,building=Shuffling Pro",1384,Unknown
+Wind Cloak,Epic,0,1,3,,,icons/wind-cloak.png,0,SpadeMult(Percent):0.3499999940395355,1385,Unknown
+Wind Hat,Legendary,0,1,3,,,icons/wind-hat.png,0,SpadeMult(Percent):0.44999998807907104,1417,Unknown
+Wind Scarf,Rare,0,0,1,,,icons/wind-scarf.png,0,SpadeMult(Percent):0.25,1351,Unknown
+Wind Scroll,Uncommon,0,0,1,,,icons/wind-scroll.png,0,SpadeMult(Percent):0.15000000596046448,1318,Unknown
+Wind Skull,Crafted,0,1,3,Wind Hat,Wind Tablet,icons/wind-skull.png,0,SpadeMult(Percent):0.6499999761581421,1263,Unknown
+Wind Staff,Crafted,1,0,3,Wind Skull,Anvil,icons/wind-staff.png,0,SpadeMult(Percent):1.0,1264,Unknown
+Wind Tablet,Common,0,0,1,,,icons/wind-tablet.png,0,SpadeMult(Percent):0.10000000149011612,1290,Unknown
+Wood Shield,Common,1,0,1,,,icons/wood-shield.png,0,MaxHP(Flat):10.0 | FlatChips(Percent):-0.25,1291,Unknown
+Wooden Arrow,Uncommon,0,1,3,,,icons/wooden-arrow.png,0,"CritChance(Percent):0.02500000037252903,every20.0s,building=Pit Boss",1319,Unknown
+Wrench,Rare,0,0,1,,,icons/wrench.png,0,"BlindDuration(Flat):2.0,building=Shuffling Pro",1352,Unknown
+Yellow Blade,Crafted,0,1,3,Yellow Pearl,Yellow Gem,icons/yellow-blade.png,0,"FlushMult(Percent):9.0,building=Shuffling Pro",1265,Unknown
+Yellow Gem,Uncommon,0,0,1,,,icons/yellow-gem.png,0,"FlushMult(Percent):0.75,building=Shuffling Pro",1320,Unknown
+Yellow Pearl,Epic,0,0,1,,,icons/yellow-pearl.png,0,"FlushMult(Percent):2.0,building=Shuffling Pro",1386,Unknown
+Yummy Fish,Epic,1,0,1,,,icons/yummy-fish.png,0,"PeriodicHPRegen(Flat):6.0,every15.0s | MaxHP(Flat):-10.0",1387,Unknown

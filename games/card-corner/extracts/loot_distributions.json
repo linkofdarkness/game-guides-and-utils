@@ -1,0 +1,285 @@
+[
+  {
+    "pathId": 1266,
+    "script": "Unknown",
+    "assetName": "Drop Table",
+    "entries": [
+      {
+        "minLevel": 1,
+        "maxLevel": 4,
+        "weights": [
+          {
+            "rarity": "Common",
+            "weight": 100.0
+          }
+        ]
+      },
+      {
+        "minLevel": 4,
+        "maxLevel": 12,
+        "weights": [
+          {
+            "rarity": "Common",
+            "weight": 98.0
+          },
+          {
+            "rarity": "Uncommon",
+            "weight": 2.0
+          }
+        ]
+      },
+      {
+        "minLevel": 12,
+        "maxLevel": 23,
+        "weights": [
+          {
+            "rarity": "Common",
+            "weight": 87.0
+          },
+          {
+            "rarity": "Uncommon",
+            "weight": 13.0
+          }
+        ]
+      },
+      {
+        "minLevel": 23,
+        "maxLevel": 33,
+        "weights": [
+          {
+            "rarity": "Common",
+            "weight": 87.0
+          },
+          {
+            "rarity": "Uncommon",
+            "weight": 10.0
+          },
+          {
+            "rarity": "Rare",
+            "weight": 3.0
+          }
+        ]
+      },
+      {
+        "minLevel": 33,
+        "maxLevel": 37,
+        "weights": [
+          {
+            "rarity": "Common",
+            "weight": 84.0
+          },
+          {
+            "rarity": "Uncommon",
+            "weight": 13.0
+          },
+          {
+            "rarity": "Rare",
+            "weight": 3.0
+          }
+        ]
+      },
+      {
+        "minLevel": 37,
+        "maxLevel": 44,
+        "weights": [
+          {
+            "rarity": "Common",
+            "weight": 65.0
+          },
+          {
+            "rarity": "Uncommon",
+            "weight": 25.0
+          },
+          {
+            "rarity": "Rare",
+            "weight": 10.0
+          }
+        ]
+      },
+      {
+        "minLevel": 44,
+        "maxLevel": 52,
+        "weights": [
+          {
+            "rarity": "Common",
+            "weight": 60.0
+          },
+          {
+            "rarity": "Uncommon",
+            "weight": 30.0
+          },
+          {
+            "rarity": "Rare",
+            "weight": 10.0
+          }
+        ]
+      },
+      {
+        "minLevel": 52,
+        "maxLevel": 62,
+        "weights": [
+          {
+            "rarity": "Common",
+            "weight": 55.0
+          },
+          {
+            "rarity": "Uncommon",
+            "weight": 33.0
+          },
+          {
+            "rarity": "Rare",
+            "weight": 10.0
+          },
+          {
+            "rarity": "Epic",
+            "weight": 2.0
+          }
+        ]
+      },
+      {
+        "minLevel": 62,
+        "maxLevel": 67,
+        "weights": [
+          {
+            "rarity": "Common",
+            "weight": 50.0
+          },
+          {
+            "rarity": "Uncommon",
+            "weight": 30.0
+          },
+          {
+            "rarity": "Rare",
+            "weight": 15.0
+          },
+          {
+            "rarity": "Epic",
+            "weight": 5.0
+          }
+        ]
+      },
+      {
+        "minLevel": 67,
+        "maxLevel": 75,
+        "weights": [
+          {
+            "rarity": "Common",
+            "weight": 40.0
+          },
+          {
+            "rarity": "Uncommon",
+            "weight": 30.0
+          },
+          {
+            "rarity": "Rare",
+            "weight": 20.0
+          },
+          {
+            "rarity": "Epic",
+            "weight": 10.0
+          }
+        ]
+      },
+      {
+        "minLevel": 75,
+        "maxLevel": 81,
+        "weights": [
+          {
+            "rarity": "Common",
+            "weight": 35.0
+          },
+          {
+            "rarity": "Uncommon",
+            "weight": 30.0
+          },
+          {
+            "rarity": "Rare",
+            "weight": 22.0
+          },
+          {
+            "rarity": "Epic",
+            "weight": 13.0
+          }
+        ]
+      },
+      {
+        "minLevel": 81,
+        "maxLevel": 87,
+        "weights": [
+          {
+            "rarity": "Common",
+            "weight": 25.0
+          },
+          {
+            "rarity": "Uncommon",
+            "weight": 25.0
+          },
+          {
+            "rarity": "Rare",
+            "weight": 25.0
+          },
+          {
+            "rarity": "Epic",
+            "weight": 20.0
+          },
+          {
+            "rarity": "Legendary",
+            "weight": 5.0
+          }
+        ]
+      },
+      {
+        "minLevel": 87,
+        "maxLevel": 90,
+        "weights": [
+          {
+            "rarity": "Common",
+            "weight": 20.0
+          },
+          {
+            "rarity": "Uncommon",
+            "weight": 25.0
+          },
+          {
+            "rarity": "Rare",
+            "weight": 25.0
+          },
+          {
+            "rarity": "Epic",
+            "weight": 22.0
+          },
+          {
+            "rarity": "Legendary",
+            "weight": 8.0
+          }
+        ]
+      },
+      {
+        "minLevel": 90,
+        "maxLevel": 1000000000,
+        "weights": [
+          {
+            "rarity": "Common",
+            "weight": 20.0
+          },
+          {
+            "rarity": "Uncommon",
+            "weight": 20.0
+          },
+          {
+            "rarity": "Rare",
+            "weight": 23.0
+          },
+          {
+            "rarity": "Epic",
+            "weight": 22.0
+          },
+          {
+            "rarity": "Legendary",
+            "weight": 15.0
+          }
+        ]
+      }
+    ]
+  }
+]
