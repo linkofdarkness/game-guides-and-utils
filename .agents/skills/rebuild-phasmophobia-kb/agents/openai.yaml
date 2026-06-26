@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rebuild Phasmophobia KB"
+  short_description: "Refresh the Phasmophobia custom GPT knowledge base"
+  default_prompt: "Use $rebuild-phasmophobia-kb to regenerate and validate the Phasmophobia custom GPT knowledge base."
