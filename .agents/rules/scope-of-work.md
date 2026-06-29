@@ -1,3 +1,11 @@
+---
+name: scope-of-work
+description: >-
+  Keeps agent work focused on the user's request with minimal, reviewable diffs.
+  Read at the start of any task.
+alwaysApply: true
+---
+
 # Scope of Work
 
 When performing tasks, making code changes, or designing a solution, make sure to stay focused and on task.
