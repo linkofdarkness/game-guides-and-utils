@@ -1,0 +1,234 @@
+lootName,rarity,unique,limited,limitCount,craftMaterial1,craftMaterial2,iconFile,statModifiersFormatted,pathId,script
+Adorned Dagger,Ϝ,0,1,2,Whittled Dagger,Gold Bar,icons/adorned-dagger.png,SuccessChance(Flat):0.05000000074505806,3592,Unknown
+Adrenaline,Ϝ,1,0,1,Forest Crown,Poisonous Berry,icons/adrenaline.png,"WhenUnder(Flat):0.4000000059604645,desperation",3593,Unknown
+Agreement,α,0,0,1,,,icons/agreement.png,GearSellValue(Percent):6.0,3698,Unknown
+Alchemy,γ,0,0,1,,,icons/alchemy.png,ClueGain(Flat):25.0,3752,Unknown
+Alien Bait,β,1,0,1,,,icons/alien-bait.png,SurviveFailureChance(Flat):0.20000000298023224 | HPRegen(Flat):0.019999999552965164,3671,Unknown
+Alien Eye,Ϝ,0,0,1,Eye,Determination,icons/alien-eye.png,CritChance(Flat):0.10000000149011612,3594,Unknown
+All or Nothing,γ,1,0,1,,,icons/all-or-nothing.png,"WhenUnder(Flat):0.30000001192092896,desperation",3753,Unknown
+Alloy,δ,0,0,1,,,icons/alloy.png,Defense(Percent):0.15000000596046448,3778,Unknown
+Alloy Bunch,Ϝ,0,0,1,Alloy,Rock Ronch,icons/alloy-bunch.png,Defense(Percent):0.3499999940395355,3595,Unknown
+Ancient Carvings,δ,0,0,1,,,icons/ancient-carvings.png,Intelligence(Flat):50.0,3779,Unknown
+Ancient Hookshot,β,1,0,1,,,icons/ancient-hookshot.png,"WalkSpeed(Percent):0.3499999940395355,scaleMode=2,per50.0,building=Climbing Gear",3672,Unknown
+Ancient Piece,Ϝ,1,0,1,Ancient Texts,Face Reader,icons/ancient-piece.png,"CritMultiplier(Percent):1.0,scaleMode=2,per5.0,building=Truth Compass",3596,Unknown
+Ancient Texts,ε,0,0,1,,,icons/ancient-texts.png,CritMultiplier(Percent):0.25 | CritChance(Flat):-0.05000000074505806,3567,Unknown
+Ancient Timer,α,0,0,1,,,icons/ancient-timer.png,WalkSpeed(Percent):0.5,3699,Unknown
+Antler,ε,0,0,1,,,icons/antler.png,HP(Flat):25.0,3568,Unknown
+Archaic Key,Ψ,1,0,1,,,icons/archaic-key.png,"CritChance(Flat):0.019999999552965164,scaleMode=2,per40.0,building=Master Key",3730,Unknown
+Armguard,γ,0,1,2,,,icons/armguard.png,"Defense(Percent):0.05000000074505806,scaleMode=2,per20.0,building=Disguise | ClueGain(Percent):-0.10000000149011612",3754,Unknown
+Augustinian Headpiece,Ψ,1,0,1,,,icons/augustinian-headpiece.png,CritMultiplier(Percent):2.4000000953674316 | HP(Percent):-0.25,3731,Unknown
+Authority,β,1,0,1,,,icons/authority.png,"ClueGain(Percent):0.8500000238418579,scaleMode=2,per15.0,building=Detective Badge | Intelligence(Percent):-0.05000000074505806",3673,Unknown
+Avarice,δ,0,0,1,,,icons/avarice.png,MoneyGain(Percent):0.3499999940395355 | Defense(Flat):-25.0,3780,Unknown
+Axe,α,1,0,1,,,icons/axe.png,"WhenUnder(Flat):0.30000001192092896,desperation",3700,Unknown
+Bag of Tools,Ϝ,1,0,1,Secret Tool,Secret Explosion,icons/bag-of-tools.png,"CritChance(Flat):0.010999999940395355,scaleMode=2,per35.0,building=Bag of Tricks",3597,Unknown
+Baton,γ,1,0,1,,,icons/baton.png,Momentum(Flat):0.3499999940395355 | SuccessChance(Flat):-0.05000000074505806,3755,Unknown
+Beams,γ,0,0,1,,,icons/beams.png,HP(Percent):0.25,3756,Unknown
+Bear Claw,γ,1,0,1,,,icons/bear-claw.png,CritMultiplier(Percent):1.0 | HP(Percent):-0.25,3757,Unknown
+Bearskin,β,0,0,1,,,icons/bearskin.png,Defense(Flat):100.0,3674,Unknown
+Beast Bone Armor,Ϝ,0,0,1,Reinforced Armor,Pear Stone,icons/beast-bone-armor.png,WalkSpeed(Percent):-0.75 | HP(Percent):4.5,3598,Unknown
+Bell,α,0,0,1,,,icons/bell.png,Momentum(Flat):0.20000000298023224,3701,Unknown
+Belt,δ,1,0,1,,,icons/belt.png,"ClueGain(Percent):0.75,scaleMode=2,per15.0,building=Detective Badge",3781,Unknown
+Berry Bush,β,1,0,1,,,icons/berry-bush.png,HPRegen(Flat):0.03999999910593033,3675,Unknown
+Big Backpack,δ,1,0,1,,,icons/big-backpack.png,MoneyGain(Flat):100.0,3782,Unknown
+Blessed Bread,Ψ,0,0,2,,,icons/blessed-bread.png,HP(Flat):350.0,3732,Unknown
+Blood Money,Ω,1,0,1,,,icons/blood-money.png,"WhenUnder(Flat):0.5,desperation",3655,Unknown
+Bone Necklace,Ϝ,1,0,1,Scholar's Cloak,Wisdom Totem,icons/bone-necklace.png,Intelligence(Percent):1.0 | ClueGain(Percent):-0.25,3599,Unknown
+Book of Secrets,α,0,0,1,,,icons/book-of-secrets.png,CritMultiplier(Percent):0.6000000238418579,3702,Unknown
+Brittle Bone,ε,0,0,1,,,icons/brittle-bone.png,Defense(Percent):0.10000000149011612 | HP(Flat):-20.0,3569,Unknown
+Bubbling Substance,Ω,0,0,1,,,icons/bubbling-substance.png,HPHealedOnCrits(Flat):250.0 | CritChance(Flat):-0.05000000074505806,3656,Unknown
+Burned Material,Ϝ,1,0,1,Dry Roots,Light Funnel,icons/burned-material.png,"Intelligence(Percent):0.5,scaleMode=2,per6.0,building=Extra Sense",3600,Unknown
+Cape,β,1,0,1,,,icons/cape.png,"Defense(Percent):0.05000000074505806,scaleMode=2,per15.0,building=Disguise | ClueGain(Percent):-0.15000000596046448",3676,Unknown
+Captain Medal,Ω,1,0,1,,,icons/captain-medal.png,Momentum(Flat):2.0 | SuccessChance(Flat):-0.05000000074505806,3657,Unknown
+Captain's Hat,β,0,0,1,,,icons/captain-s-hat.png,WalkSpeed(Percent):0.4000000059604645,3677,Unknown
+Chain Link,ε,0,0,1,,,icons/chain-link.png,"ClueGain(Percent):1.0,every10",3570,Unknown
+Cheese,Ω,0,0,1,,,icons/cheese.png,HP(Percent):1.0,3658,Unknown
+Cheese Cube,ε,1,0,1,,,icons/cheese-cube.png,HPRegen(Flat):0.009999999776482582,3571,Unknown
+Cheesecloth,Ϝ,1,0,1,Cheese,Heavy Glove,icons/cheesecloth.png,HP(Percent):3.0 | WalkSpeed(Percent):-0.5,3601,Unknown
+Chest,β,1,0,1,,,icons/chest.png,"MoneyGain(Percent):0.25,scaleMode=2,per20.0,building=Crime Scene Map",3678,Unknown
+Clever Bloodworm,δ,1,0,1,,,icons/clever-bloodworm.png,SurviveFailureChance(Flat):0.15000000596046448,3783,Unknown
+Climbing Claws,δ,1,0,1,,,icons/climbing-claws.png,"WalkSpeed(Percent):0.25,scaleMode=2,per50.0,building=Climbing Gear",3784,Unknown
+Climbing Gloves,Ϝ,1,0,1,Ancient Hookshot,Climbing Claws,icons/climbing-gloves.png,"WalkSpeed(Percent):0.44999998807907104,scaleMode=2,per50.0,building=Climbing Gear",3602,Unknown
+Cloak,Ϝ,0,1,2,Armguard,Cape,icons/cloak.png,"Defense(Percent):0.05000000074505806,scaleMode=2,per12.0,building=Disguise | ClueGain(Percent):-0.10000000149011612",3603,Unknown
+Clock,ε,0,0,1,,,icons/clock.png,WalkSpeed(Percent):0.15000000596046448,3572,Unknown
+Clockwork,δ,0,0,1,,,icons/clockwork.png,Momentum(Flat):0.15000000596046448,3785,Unknown
+Collar,α,0,0,1,,,icons/collar.png,MoneyGain(Percent):0.8500000238418579 | Defense(Flat):-150.0,3703,Unknown
+Concealed Knife,α,1,0,1,,,icons/concealed-knife.png,"CritChance(Flat):1.0,every6",3704,Unknown
+Corrupted Mask,Ϝ,0,0,1,Dried Herb,Forest Crown,icons/corrupted-mask.png,HPRegen(Flat):-0.05000000074505806 | ClueGain(Percent):14.0,3604,Unknown
+Cosmic Pendant,Ϝ,1,0,1,Cosmic Weave,Magic Tool,icons/cosmic-pendant.png,XPGain(Percent):0.5,3605,Unknown
+Cosmic Weave,Ϝ,1,0,1,Authority,Heavy Matter,icons/cosmic-weave.png,XPGain(Percent):0.15000000596046448,3606,Unknown
+Crank,δ,1,0,1,,,icons/crank.png,"WhenUnder(Flat):0.30000001192092896,desperation",3786,Unknown
+Crazy Stick,Ϝ,0,0,1,Primal Poking Tool,Gamble,icons/crazy-stick.png,ClueGain(Percent):14.0 | SuccessChance(Flat):-0.07500000298023224,3607,Unknown
+Critical Gauze,β,0,0,1,,,icons/critical-gauze.png,HPHealedOnCrits(Flat):50.0 | CritChance(Flat):0.029999999329447746,3679,Unknown
+Critical Nails,Ϝ,1,0,1,Chain Link,Etching Blade,icons/critical-nails.png,"CritChance(Flat):1.0,every3",3608,Unknown
+Critical Tradeoff,β,1,0,1,,,icons/critical-tradeoff.png,CritMultiplier(Percent):1.2999999523162842 | HP(Percent):-0.25,3680,Unknown
+Cursed Shroom,γ,1,0,1,,,icons/cursed-shroom.png,HPRegen(Flat):-0.10000000149011612 | Defense(Percent):0.3499999940395355,3758,Unknown
+Daisy,γ,0,0,1,,,icons/daisy.png,CritChance(Flat):0.05000000074505806,3759,Unknown
+Dark Energy,Ϝ,0,1,3,Detective Pendant,Wizard Shard,icons/dark-energy.png,XPGain(Percent):0.20000000298023224 | ClueGain(Percent):-0.25,3609,Unknown
+Dark Matter,Ϝ,0,1,3,Dark Energy,Cosmic Pendant,icons/dark-matter.png,XPGain(Percent):4.0 | ClueGain(Percent):-0.25,3610,Unknown
+Dead Fish,Ψ,1,0,1,,,icons/dead-fish.png,SurviveFailureChance(Flat):0.30000001192092896,3733,Unknown
+Deed,β,0,0,1,,,icons/deed.png,GearSellValue(Percent):4.0,3681,Unknown
+Defy Death,Ϝ,1,0,1,Starfish,Cheese Cube,icons/defy-death.png,SurviveFailureChance(Flat):0.5,3611,Unknown
+Detective Pendant,γ,1,0,1,,,icons/detective-pendant.png,SuccessChance(Flat):0.07500000298023224,3760,Unknown
+Determination,β,1,0,1,,,icons/determination.png,"WhenUnder(Flat):0.30000001192092896,desperation",3682,Unknown
+Dragon Stamp,Ω,1,0,1,,,icons/dragon-stamp.png,"ClueGain(Percent):1.0,scaleMode=1,per150.0",3659,Unknown
+Dried Herb,γ,0,0,1,,,icons/dried-herb.png,HPRegen(Flat):0.029999999329447746,3761,Unknown
+Dry Aged Meat,Ϝ,0,1,2,Very Old Nut,Greed,icons/dry-aged-meat.png,"MoneyGain(Percent):0.550000011920929,scaleMode=2,per5.0,building=Interrogations",3612,Unknown
+Dry Roots,α,1,0,1,,,icons/dry-roots.png,"Intelligence(Percent):0.25,scaleMode=2,per20.0,building=Magnifying Glass",3705,Unknown
+Dry Wood,δ,0,1,3,,,icons/dry-wood.png,"Intelligence(Percent):0.05000000074505806,scaleMode=2,per20.0,building=Magnifying Glass",3573,Unknown
+Emblem,β,1,0,1,,,icons/emblem.png,"ClueGain(Percent):0.30000001192092896,scaleMode=1,per120.0",3683,Unknown
+Etching Blade,Ψ,1,0,1,,,icons/etching-blade.png,"CritChance(Flat):1.0,every5",3734,Unknown
+Extracted Life,Ϝ,0,0,1,Clever Bloodworm,Defy Death,icons/extracted-life.png,HP(Percent):2.0,3613,Unknown
+Eye,ε,0,1,3,,,icons/eye.png,CritChance(Flat):0.029999999329447746,3574,Unknown
+Eye Pendant,Ω,0,1,2,,,icons/eye-pendant.png,CritChance(Flat):0.15000000596046448,3660,Unknown
+Face Reader,Ω,1,0,1,,,icons/face-reader.png,"CritMultiplier(Percent):0.30000001192092896,scaleMode=2,per5.0,building=Truth Compass",3661,Unknown
+Fang,γ,0,0,1,,,icons/fang.png,ClueGain(Percent):1.0 | HP(Percent):-0.4000000059604645,3762,Unknown
+Fish Hook,ε,1,0,1,,,icons/fish-hook.png,ClueGain(Percent):0.3499999940395355 | HP(Flat):-30.0,3575,Unknown
+Fishing Rod,δ,1,0,1,,,icons/fishing-rod.png,Momentum(Flat):0.20000000298023224,3787,Unknown
+Fishing Solution,Ϝ,0,0,1,Fish Hook,Salve,icons/fishing-solution.png,ClueGain(Percent):7.5 | HP(Flat):-3000.0,3614,Unknown
+Flask,δ,0,0,1,,,icons/flask.png,ClueGain(Flat):20.0,3788,Unknown
+Floral Treasure,α,0,0,1,,,icons/floral-treasure.png,MoneyGain(Percent):1.0 | SuccessChance(Flat):-0.10000000149011612,3706,Unknown
+Food Rock,Ϝ,0,0,1,Gargoyle Body,Garlic,icons/food-rock.png,HP(Flat):1000.0 | Defense(Flat):1000.0,3615,Unknown
+Forest Crown,γ,1,0,1,,,icons/forest-crown.png,"WhenUnder(Flat):0.3499999940395355,desperation",3763,Unknown
+Forest Necklace,α,1,0,1,,,icons/forest-necklace.png,"WhenUnder(Flat):0.5,desperation",3707,Unknown
+Fork,Ω,0,0,1,,,icons/fork.png,"ClueGain(Percent):14.0,every4",3662,Unknown
+Fresh Flesh,Ψ,1,0,1,,,icons/fresh-flesh.png,HPRegen(Flat):0.05999999865889549,3735,Unknown
+Frog Leg,γ,0,0,1,,,icons/frog-leg.png,Momentum(Flat):0.15000000596046448 | Intelligence(Percent):0.15000000596046448,3764,Unknown
+Full Meal,α,1,0,1,,,icons/full-meal.png,HPRegen(Flat):0.05000000074505806,3708,Unknown
+Full Stomach,Ϝ,0,0,1,Crank,Ancient Timer,icons/full-stomach.png,"WhenUnder(Flat):0.5,desperation",3616,Unknown
+Fundamental Particle,Ϝ,1,0,1,Heavy Matter,Sailor's Token,icons/fundamental-particle.png,Momentum(Flat):3.5 | WalkSpeed(Percent):0.3499999940395355,3617,Unknown
+Gamble,ε,0,0,1,,,icons/gamble.png,ClueGain(Percent):0.25 | SuccessChance(Flat):-0.05000000074505806,3576,Unknown
+Gargoyle Body,Ϝ,0,0,1,Bearskin,Undead Body,icons/gargoyle-body.png,Defense(Flat):350.0,3618,Unknown
+Garlic,Ϝ,0,0,1,Yummy Egg,Tuber,icons/garlic.png,HP(Flat):500.0,3619,Unknown
+Gold Amulet,β,0,0,1,,,icons/gold-amulet.png,MoneyGain(Percent):0.6000000238418579 | SuccessChance(Flat):-0.10000000149011612,3684,Unknown
+Gold Bar,δ,0,0,1,,,icons/gold-bar.png,CritMultiplier(Percent):0.30000001192092896,3789,Unknown
+Gold Nugget,β,0,0,1,,,icons/gold-nugget.png,MoneyGain(Percent):0.44999998807907104,3685,Unknown
+Gold Sack,Ω,0,0,1,,,icons/gold-sack.png,MoneyGain(Percent):2.0,3663,Unknown
+Golem Claws,β,0,0,1,,,icons/golem-claws.png,ClueGain(Percent):1.2999999523162842 | HP(Percent):-0.5,3686,Unknown
+Good Acorn,γ,1,0,1,,,icons/good-acorn.png,SurviveFailureChance(Flat):0.20000000298023224,3765,Unknown
+Good Poison,Ϝ,0,0,1,Poisonous Berry,Cursed Shroom,icons/good-poison.png,HP(Percent):4.0 | Defense(Percent):-0.5,3620,Unknown
+Greed,ε,0,0,1,,,icons/greed.png,MoneyGain(Percent):0.25 | Defense(Flat):-2.0,3577,Unknown
+Hanging by a Thread,ε,1,0,1,,,icons/hanging-by-a-thread.png,"WhenUnder(Flat):0.25,desperation",3578,Unknown
+Hard Horn,δ,1,0,1,,,icons/hard-horn.png,ClueGain(Percent):0.75 | HP(Flat):-50.0,3790,Unknown
+Healing Salt,ε,0,0,1,,,icons/healing-salt.png,HPHealedOnCrits(Flat):10.0,3579,Unknown
+Healthy Peas,Ψ,0,0,1,,,icons/healthy-peas.png,HP(Percent):0.5,3736,Unknown
+Hearty Soup,ε,1,0,1,,,icons/hearty-soup.png,HP(Flat):80.0,3580,Unknown
+Heavy Box,γ,0,0,1,,,icons/heavy-box.png,HP(Flat):150.0,3766,Unknown
+Heavy Glove,Ω,0,0,1,,,icons/heavy-glove.png,HP(Percent):2.0 | WalkSpeed(Percent):-0.5,3664,Unknown
+Heavy Matter,β,0,0,1,,,icons/heavy-matter.png,Momentum(Flat):0.20000000298023224 | WalkSpeed(Percent):0.15000000596046448,3687,Unknown
+Helm,α,0,0,1,,,icons/helm.png,Defense(Flat):120.0,3709,Unknown
+Hollow Sticks,Ψ,0,0,1,,,icons/hollow-sticks.png,"ClueGain(Percent):3.5,every3",3737,Unknown
+Holy Grail,Ϝ,0,0,1,Prism,Thunder Emblem,icons/holy-grail.png,"MoneyGain(Percent):29.0,every5",3621,Unknown
+Horn,α,0,0,1,,,icons/horn.png,HPHealedOnCrits(Flat):100.0,3710,Unknown
+Hunting Spear,β,1,0,1,,,icons/hunting-spear.png,"CritChance(Flat):1.0,every7",3688,Unknown
+Illuminating Notes,Ϝ,1,0,1,Notes,Authority,icons/illuminating-notes.png,ClueGain(Percent):49.0,3622,Unknown
+Jellyfish,α,1,0,1,,,icons/jellyfish.png,SurviveFailureChance(Flat):0.25,3711,Unknown
+Keen Eye,δ,1,0,1,,,icons/keen-eye.png,"CritMultiplier(Percent):0.11999999731779099,scaleMode=2,per10.0,building=Telescope",3791,Unknown
+Leap of Faith,β,1,0,1,,,icons/leap-of-faith.png,Momentum(Flat):1.0 | SuccessChance(Flat):-0.20000000298023224,3689,Unknown
+Life Chalice,α,0,0,1,,,icons/life-chalice.png,HP(Percent):0.44999998807907104,3712,Unknown
+Light Boots,γ,0,0,1,,,icons/light-boots.png,WalkSpeed(Percent):0.30000001192092896,3767,Unknown
+Light Funnel,β,1,0,1,,,icons/light-funnel.png,"Intelligence(Percent):0.10000000149011612,scaleMode=2,per20.0,building=Magnifying Glass",3690,Unknown
+Lobster,Ϝ,1,0,1,Fresh Flesh,Full Meal,icons/lobster.png,HPRegen(Flat):0.10000000149011612,3623,Unknown
+Locket,Ϝ,0,0,1,Blood Money,Chest,icons/locket.png,"WhenUnder(Flat):0.5,desperation",3624,Unknown
+Magic Tool,Ω,0,0,1,,,icons/magic-tool.png,ClueGain(Percent):6.5,3665,Unknown
+Manipulation,Ϝ,0,1,3,Detective Pendant,Determination,icons/manipulation.png,InterrogationSuspects(Flat):-1.0,3625,Unknown
+Map,δ,0,0,1,,,icons/map.png,WalkSpeed(Percent):0.25,3792,Unknown
+Medicine,ε,0,0,1,,,icons/medicine.png,Intelligence(Percent):0.25,3581,Unknown
+Monster Feet,Ψ,0,1,2,,,icons/monster-feet.png,WalkSpeed(Percent):0.6000000238418579,3738,Unknown
+Mythical Loot,Ω,0,0,1,,,icons/mythical-loot.png,GearSellValue(Percent):19.0,3666,Unknown
+Natural Brew,α,0,0,1,,,icons/natural-brew.png,Intelligence(Percent):0.550000011920929,3713,Unknown
+Natural Claw,Ψ,0,0,1,,,icons/natural-claw.png,HPHealedOnCrits(Flat):140.0,3739,Unknown
+No Time to Die,ε,0,1,2,,,icons/no-time-to-die.png,WalkSpeed(Percent):0.20000000298023224,3582,Unknown
+Notes,ε,0,0,1,,,icons/notes.png,ClueGain(Flat):10.0,3583,Unknown
+Old Treasure,δ,0,0,1,,,icons/old-treasure.png,"WhenUnder(Percent):0.5,desperation",3793,Unknown
+Padded Blouse,α,0,0,1,,,icons/padded-blouse.png,HP(Percent):0.6000000238418579 | WalkSpeed(Percent):-0.5,3714,Unknown
+Pear Stone,β,0,0,1,,,icons/pear-stone.png,HP(Percent):0.4000000059604645,3691,Unknown
+Pearls,α,1,0,1,,,icons/pearls.png,"WhenUnder(Flat):0.5,desperation",3715,Unknown
+Phylogeny,Ϝ,0,0,1,Predator Bones,Book of Secrets,icons/phylogeny.png,CritMultiplier(Percent):3.0,3626,Unknown
+Pirate Coin,Ψ,0,0,1,,,icons/pirate-coin.png,MoneyGain(Percent):0.699999988079071,3740,Unknown
+Pirate Soul,Ϝ,1,0,1,Captain Medal,Ship Wheel,icons/pirate-soul.png,Momentum(Flat):4.0 | SuccessChance(Flat):-0.05000000074505806,3627,Unknown
+Pirate Victims,Ϝ,1,0,1,Detective Pendant,Pirate Soul,icons/pirate-victims.png,Momentum(Flat):4.0,3628,Unknown
+Plunder,γ,0,0,1,,,icons/plunder.png,MoneyGain(Percent):0.6000000238418579 | SuccessChance(Flat):-0.11999999731779099,3768,Unknown
+Poisonous Berry,δ,1,0,1,,,icons/poisonous-berry.png,HPRegen(Flat):-0.07000000029802322 | ClueGain(Percent):1.0,3794,Unknown
+Poking Tool,α,0,0,1,,,icons/poking-tool.png,ClueGain(Percent):1.350000023841858,3716,Unknown
+Pouch of Secrets,Ϝ,1,0,1,Pouch of Tricks,Bag of Tools,icons/pouch-of-secrets.png,"CritChance(Flat):0.012000000104308128,scaleMode=2,per35.0,building=Bag of Tricks",3629,Unknown
+Pouch of Tricks,δ,1,0,1,,,icons/pouch-of-tricks.png,"CritChance(Flat):0.008999999612569809,scaleMode=2,per35.0,building=Bag of Tricks",3795,Unknown
+Precise Launcher,β,1,0,1,,,icons/precise-launcher.png,"CritMultiplier(Percent):0.20000000298023224,scaleMode=2,per10.0,building=Telescope",3692,Unknown
+Predator Bones,Ω,0,0,1,,,icons/predator-bones.png,CritMultiplier(Percent):2.0,3667,Unknown
+Present,ε,0,0,1,,,icons/present.png,GearSellValue(Percent):0.5,3584,Unknown
+Pricy Shell,ε,0,0,1,,,icons/pricy-shell.png,"WhenUnder(Percent):0.5,desperation",3585,Unknown
+Primal Poking Tool,Ϝ,0,0,1,Primal Tool,Poking Tool,icons/primal-poking-tool.png,ClueGain(Percent):9.0,3630,Unknown
+Primal Tool,Ψ,0,0,1,,,icons/primal-tool.png,ClueGain(Percent):4.0,3741,Unknown
+Prism,Ω,1,0,1,,,icons/prism.png,"CritChance(Flat):1.0,every4",3668,Unknown
+Pristine Armor,β,0,0,1,,,icons/pristine-armor.png,MoneyGain(Percent):0.699999988079071 | Defense(Flat):-100.0,3693,Unknown
+Puffed Pelt,δ,1,0,1,,,icons/puffed-pelt.png,"Defense(Flat):2.0,scaleMode=2,per3.0,building=Disguise",3796,Unknown
+Quantum Clapper,Ϝ,1,0,1,Sailor Bell,Fundamental Particle,icons/quantum-clapper.png,Momentum(Flat):4.0 | WalkSpeed(Percent):0.5,3631,Unknown
+Quiver,γ,0,0,1,,,icons/quiver.png,"ClueGain(Percent):2.0,every4",3769,Unknown
+Rare Egg,Ψ,0,0,1,,,icons/rare-egg.png,MoneyGain(Percent):2.0 | SuccessChance(Flat):-0.10000000149011612,3742,Unknown
+Raven Staff,γ,0,0,1,,,icons/raven-staff.png,HPHealedOnCrits(Flat):15.0 | CritChance(Flat):0.019999999552965164,3770,Unknown
+Regal Dagger,Ϝ,1,0,1,Adorned Dagger,Whittled Dagger,icons/regal-dagger.png,SuccessChance(Flat):0.15000000596046448,3632,Unknown
+Reinforced Armor,δ,0,0,1,,,icons/reinforced-armor.png,WalkSpeed(Percent):-0.5 | HP(Percent):0.30000001192092896,3797,Unknown
+Reinforced Brooch,Ϝ,0,0,1,Rock Bits,Collar,icons/reinforced-brooch.png,MoneyGain(Percent):3.0,3633,Unknown
+Reinforced Mineral,α,0,1,3,,,icons/reinforced-mineral.png,Defense(Percent):0.25,3717,Unknown
+Rejuvenating Chili,Ω,1,0,1,,,icons/rejuvenating-chili.png,"WhenUnder(Flat):0.25,desperation",3669,Unknown
+Ribboned Emblem,Ϝ,0,1,3,Tool Package,Emblem,icons/ribboned-emblem.png,"Intelligence(Percent):0.15000000596046448,scaleMode=1,per200.0",3634,Unknown
+Rock Bits,δ,0,0,1,,,icons/rock-bits.png,HP(Flat):70.0,3798,Unknown
+Rock Ronch,Ψ,1,0,3,,,icons/rock-ronch.png,Defense(Percent):0.30000001192092896,3743,Unknown
+Room Key,α,1,0,1,,,icons/room-key.png,CritMultiplier(Percent):2.0 | HP(Percent):-0.25,3718,Unknown
+Sack,γ,0,0,1,,,icons/sack.png,MoneyGain(Percent):0.44999998807907104 | Defense(Flat):-25.0,3771,Unknown
+Sailor Bell,Ϝ,0,0,1,Sailor's Token,Bell,icons/sailor-bell.png,Momentum(Flat):1.0,3635,Unknown
+Sailor's Token,Ψ,0,0,1,,,icons/sailor-s-token.png,Momentum(Flat):0.3499999940395355,3744,Unknown
+Saintly Branch,Ϝ,1,0,1,Alien Eye,Alien Bait,icons/saintly-branch.png,CritChance(Flat):1.0 | Defense(Percent):-1.0,3636,Unknown
+Salmon,α,0,1,2,,,icons/salmon.png,HP(Flat):250.0,3719,Unknown
+Salve,γ,0,0,1,,,icons/salve.png,HP(Percent):0.30000001192092896,3772,Unknown
+Scholar's Cloak,α,0,0,1,,,icons/scholar-s-cloak.png,Intelligence(Percent):0.6499999761581421 | ClueGain(Percent):-0.25,3720,Unknown
+Scythe Claw,Ψ,1,0,1,,,icons/scythe-claw.png,ClueGain(Percent):9.0 | HP(Percent):-0.5,3745,Unknown
+Sealord Helm,Ω,0,1,3,,,icons/sealord-helm.png,Momentum(Flat):0.75,3670,Unknown
+Secret Explosion,α,1,0,1,,,icons/secret-explosion.png,"CritChance(Flat):0.009999999776482582,scaleMode=2,per35.0,building=Bag of Tricks",3721,Unknown
+Secret Tool,ε,1,0,1,,,icons/secret-tool.png,"CritChance(Flat):0.007499999832361937,scaleMode=2,per35.0,building=Bag of Tricks",3586,Unknown
+Seized Chance,Ϝ,0,1,3,Self Trap,Strike Timer,icons/seized-chance.png,"WhenUnder(Flat):0.5,desperation",3637,Unknown
+Self Trap,Ϝ,1,0,1,Brittle Bone,Hollow Sticks,icons/self-trap.png,"WhenUnder(Flat):0.3499999940395355,desperation",3638,Unknown
+Serrated Knife,Ϝ,0,0,1,Fork,Etching Blade,icons/serrated-knife.png,"ClueGain(Percent):14.0,every4 | CritChance(Flat):1.0,every5",3639,Unknown
+Shield,ε,0,0,1,,,icons/shield.png,Defense(Flat):10.0,3587,Unknown
+Ship Wheel,β,1,0,1,,,icons/ship-wheel.png,Momentum(Flat):0.30000001192092896,3694,Unknown
+Sickle,γ,1,0,1,,,icons/sickle.png,"WhenUnder(Flat):0.20000000298023224,desperation",3773,Unknown
+Silky Pelt,γ,0,0,1,,,icons/silky-pelt.png,Defense(Flat):70.0,3774,Unknown
+Silver Material,Ψ,1,0,1,,,icons/silver-material.png,"ClueGain(Percent):0.5,scaleMode=2,per5.0,building=Silver Bullet",3746,Unknown
+Sixth Sense,Ψ,1,0,1,,,icons/sixth-sense.png,"Intelligence(Percent):0.4000000059604645,scaleMode=2,per6.0,building=Extra Sense",3747,Unknown
+Smart Worm,ε,1,0,1,,,icons/smart-worm.png,SurviveFailureChance(Flat):0.10000000149011612,3588,Unknown
+Soaked Fang,Ϝ,0,0,1,Fang,Flask,icons/soaked-fang.png,ClueGain(Percent):12.0 | HP(Percent):-0.25,3640,Unknown
+Spine,Ϝ,0,0,1,Hanging by a Thread,All or Nothing,icons/spine.png,"WhenUnder(Flat):0.5,desperation | WhenUnder(Flat):0.5,desperation",3641,Unknown
+Spiral Claw,α,1,0,1,,,icons/spiral-claw.png,ClueGain(Percent):1.5 | HP(Percent):-0.5,3722,Unknown
+Staff of Opportunity,α,1,0,1,,,icons/staff-of-opportunity.png,Momentum(Flat):0.800000011920929 | SuccessChance(Flat):0.05000000074505806,3723,Unknown
+Stake,ε,1,0,1,,,icons/stake.png,CritChance(Flat):0.03500000014901161,3589,Unknown
+Starfish,Ϝ,0,0,1,Clever Bloodworm,Smart Worm,icons/starfish.png,SurviveFailureChance(Flat):0.4000000059604645,3642,Unknown
+Sticky Moss,ε,0,0,1,,,icons/sticky-moss.png,WalkSpeed(Percent):-0.25 | Momentum(Flat):0.10000000149011612,3590,Unknown
+Strike Timer,Ϝ,0,1,2,Keen Eye,Light Funnel,icons/strike-timer.png,"WhenUnder(Flat):0.3499999940395355,desperation",3643,Unknown
+Tentacle,Ϝ,0,0,1,Frog Leg,Frog Leg,icons/tentacle.png,Momentum(Flat):0.5 | Intelligence(Percent):0.75,3644,Unknown
+Theory of Everything,Ϝ,1,0,1,Ancient Texts,Illuminating Notes,icons/theory-of-everything.png,ClueGain(Percent):99.0,3645,Unknown
+Thunder Emblem,β,0,0,1,,,icons/thunder-emblem.png,"ClueGain(Percent):2.5,every3",3695,Unknown
+Time Cog,Ϝ,0,1,2,Ancient Timer,Clock,icons/time-cog.png,WalkSpeed(Percent):0.75,3646,Unknown
+Tinder,γ,1,0,1,,,icons/tinder.png,"Intelligence(Percent):0.25,scaleMode=2,per75.0,building=Magnifying Glass",3799,Unknown
+Tiny Edge,Ψ,0,0,1,,,icons/tiny-edge.png,CritMultiplier(Percent):0.75,3748,Unknown
+Tool Package,γ,1,0,1,,,icons/tool-package.png,"Intelligence(Percent):0.10000000149011612,scaleMode=1,per200.0",3775,Unknown
+Tough Hide,δ,1,0,1,,,icons/tough-hide.png,"WhenUnder(Flat):0.15000000596046448,desperation",3800,Unknown
+Tough Trunk,δ,0,0,1,,,icons/tough-trunk.png,Defense(Flat):35.0,3801,Unknown
+Trade Deal,Ϝ,0,1,5,Agreement,Deed,icons/trade-deal.png,GearSellValue(Percent):24.0,3647,Unknown
+Trade Token,α,0,0,1,,,icons/trade-token.png,MoneyGain(Percent):0.550000011920929,3724,Unknown
+Trader's Treasure,Ψ,0,0,1,,,icons/trader-s-treasure.png,GearSellValue(Percent):9.0,3749,Unknown
+Treasure Guide,α,1,0,1,,,icons/treasure-guide.png,"MoneyGain(Percent):0.30000001192092896,scaleMode=2,per20.0,building=Crime Scene Map",3725,Unknown
+Treasure Spot,γ,1,0,1,,,icons/treasure-spot.png,"MoneyGain(Percent):0.20000000298023224,scaleMode=2,per20.0,building=Crime Scene Map",3776,Unknown
+Trident,Ϝ,0,0,1,Natural Claw,Raven Staff,icons/trident.png,HPHealedOnCrits(Flat):300.0 | CritChance(Flat):0.05000000074505806,3648,Unknown
+Triple Trouble,α,0,0,1,,,icons/triple-trouble.png,"ClueGain(Percent):3.0,every3",3726,Unknown
+Tuber,β,0,1,2,,,icons/tuber.png,HP(Flat):180.0,3696,Unknown
+Undead Beast,Ϝ,0,0,1,Healing Salt,Horn,icons/undead-beast.png,HPHealedOnCrits(Flat):500.0,3649,Unknown
+Undead Body,Ψ,0,0,1,,,icons/undead-body.png,Defense(Flat):160.0,3750,Unknown
+Very Old Nut,Ψ,1,0,1,,,icons/very-old-nut.png,"MoneyGain(Percent):0.4000000059604645,scaleMode=2,per5.0,building=Interrogations",3751,Unknown
+Vestigial Tail,Ϝ,0,0,1,Adrenaline,Spine,icons/vestigial-tail.png,"WhenUnder(Flat):0.4000000059604645,desperation",3650,Unknown
+Watchful Jewelry,α,0,1,2,,,icons/watchful-jewelry.png,CritChance(Flat):0.07999999821186066,3727,Unknown
+Whittled Dagger,Ϝ,0,0,1,Stake,Primal Tool,icons/whittled-dagger.png,SuccessChance(Flat):0.009999999776482582,3651,Unknown
+Wisdom Totem,β,0,0,1,,,icons/wisdom-totem.png,Intelligence(Percent):0.44999998807907104,3697,Unknown
+Witch Soup,Ϝ,0,0,1,Bone Necklace,Alchemy,icons/witch-soup.png,Intelligence(Percent):1.0,3652,Unknown
+Wizard Shard,γ,0,0,1,,,icons/wizard-shard.png,Intelligence(Percent):0.3499999940395355,3777,Unknown
+Yggdrasil Root,Ϝ,0,1,2,Yin and Yang,Witch Soup,icons/yggdrasil-root.png,InspectionDuration(Percent):0.5,3653,Unknown
+Yin and Yang,Ϝ,1,0,1,Emblem,Dragon Stamp,icons/yin-and-yang.png,"ClueGain(Percent):3.0,scaleMode=1,per100.0",3654,Unknown
+Yummy Egg,ε,0,1,3,,,icons/yummy-egg.png,HP(Flat):40.0,3591,Unknown

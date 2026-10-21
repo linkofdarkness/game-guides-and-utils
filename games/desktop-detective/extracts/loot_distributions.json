@@ -1,0 +1,295 @@
+[
+  {
+    "pathId": 3728,
+    "script": "Unknown",
+    "assetName": "Loot Drops",
+    "entries": [
+      {
+        "minLevel": 1,
+        "maxLevel": 14,
+        "weights": [
+          {
+            "rarity": "\u03b5",
+            "weight": 85.0
+          },
+          {
+            "rarity": "\u03b4",
+            "weight": 15.0
+          }
+        ]
+      },
+      {
+        "minLevel": 15,
+        "maxLevel": 24,
+        "weights": [
+          {
+            "rarity": "\u03b5",
+            "weight": 50.0
+          },
+          {
+            "rarity": "\u03b4",
+            "weight": 40.0
+          },
+          {
+            "rarity": "\u03b3",
+            "weight": 10.0
+          }
+        ]
+      },
+      {
+        "minLevel": 25,
+        "maxLevel": 29,
+        "weights": [
+          {
+            "rarity": "\u03b5",
+            "weight": 40.0
+          },
+          {
+            "rarity": "\u03b4",
+            "weight": 35.0
+          },
+          {
+            "rarity": "\u03b3",
+            "weight": 25.0
+          }
+        ]
+      },
+      {
+        "minLevel": 29,
+        "maxLevel": 41,
+        "weights": [
+          {
+            "rarity": "\u03b5",
+            "weight": 25.0
+          },
+          {
+            "rarity": "\u03b4",
+            "weight": 40.0
+          },
+          {
+            "rarity": "\u03b3",
+            "weight": 25.0
+          },
+          {
+            "rarity": "\u03b2",
+            "weight": 10.0
+          }
+        ]
+      },
+      {
+        "minLevel": 41,
+        "maxLevel": 47,
+        "weights": [
+          {
+            "rarity": "\u03b5",
+            "weight": 20.0
+          },
+          {
+            "rarity": "\u03b4",
+            "weight": 30.0
+          },
+          {
+            "rarity": "\u03b3",
+            "weight": 25.0
+          },
+          {
+            "rarity": "\u03b2",
+            "weight": 22.0
+          },
+          {
+            "rarity": "\u03b1",
+            "weight": 3.0
+          }
+        ]
+      },
+      {
+        "minLevel": 47,
+        "maxLevel": 57,
+        "weights": [
+          {
+            "rarity": "\u03b5",
+            "weight": 18.0
+          },
+          {
+            "rarity": "\u03b4",
+            "weight": 25.0
+          },
+          {
+            "rarity": "\u03b3",
+            "weight": 30.0
+          },
+          {
+            "rarity": "\u03b2",
+            "weight": 22.0
+          },
+          {
+            "rarity": "\u03b1",
+            "weight": 5.0
+          }
+        ]
+      },
+      {
+        "minLevel": 57,
+        "maxLevel": 66,
+        "weights": [
+          {
+            "rarity": "\u03b5",
+            "weight": 15.0
+          },
+          {
+            "rarity": "\u03b4",
+            "weight": 22.0
+          },
+          {
+            "rarity": "\u03b3",
+            "weight": 30.0
+          },
+          {
+            "rarity": "\u03b2",
+            "weight": 20.0
+          },
+          {
+            "rarity": "\u03b1",
+            "weight": 10.0
+          },
+          {
+            "rarity": "\u03a8",
+            "weight": 3.0
+          }
+        ]
+      },
+      {
+        "minLevel": 66,
+        "maxLevel": 78,
+        "weights": [
+          {
+            "rarity": "\u03b5",
+            "weight": 15.0
+          },
+          {
+            "rarity": "\u03b4",
+            "weight": 20.0
+          },
+          {
+            "rarity": "\u03b3",
+            "weight": 20.0
+          },
+          {
+            "rarity": "\u03b2",
+            "weight": 20.0
+          },
+          {
+            "rarity": "\u03b1",
+            "weight": 15.0
+          },
+          {
+            "rarity": "\u03a8",
+            "weight": 10.0
+          }
+        ]
+      },
+      {
+        "minLevel": 78,
+        "maxLevel": 87,
+        "weights": [
+          {
+            "rarity": "\u03b5",
+            "weight": 15.0
+          },
+          {
+            "rarity": "\u03b4",
+            "weight": 15.0
+          },
+          {
+            "rarity": "\u03b3",
+            "weight": 15.0
+          },
+          {
+            "rarity": "\u03b2",
+            "weight": 20.0
+          },
+          {
+            "rarity": "\u03b1",
+            "weight": 15.0
+          },
+          {
+            "rarity": "\u03a8",
+            "weight": 15.0
+          },
+          {
+            "rarity": "\u03a9",
+            "weight": 5.0
+          }
+        ]
+      },
+      {
+        "minLevel": 87,
+        "maxLevel": 98,
+        "weights": [
+          {
+            "rarity": "\u03b5",
+            "weight": 15.0
+          },
+          {
+            "rarity": "\u03b4",
+            "weight": 15.0
+          },
+          {
+            "rarity": "\u03b3",
+            "weight": 15.0
+          },
+          {
+            "rarity": "\u03b2",
+            "weight": 15.0
+          },
+          {
+            "rarity": "\u03b1",
+            "weight": 15.0
+          },
+          {
+            "rarity": "\u03a8",
+            "weight": 15.0
+          },
+          {
+            "rarity": "\u03a9",
+            "weight": 10.0
+          }
+        ]
+      },
+      {
+        "minLevel": 98,
+        "maxLevel": 999,
+        "weights": [
+          {
+            "rarity": "\u03b5",
+            "weight": 12.0
+          },
+          {
+            "rarity": "\u03b4",
+            "weight": 13.0
+          },
+          {
+            "rarity": "\u03b3",
+            "weight": 15.0
+          },
+          {
+            "rarity": "\u03b2",
+            "weight": 15.0
+          },
+          {
+            "rarity": "\u03b1",
+            "weight": 15.0
+          },
+          {
+            "rarity": "\u03a8",
+            "weight": 15.0
+          },
+          {
+            "rarity": "\u03a9",
+            "weight": 15.0
+          }
+        ]
+      }
+    ]
+  }
+]
